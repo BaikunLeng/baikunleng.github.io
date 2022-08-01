@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-=
+# Education
+=====
 * B.S. in School of Data Science, the Chinese University of Hong Kong, Shenzhen 2020-2024
 * Visiting in EECS Department, UC Berkeley, 2022-2023
 
-Research experience
+# Research experience
 ======
 * 08/2022-10/2022: Summer Research Intern (STAT), CUHK (shenzhen)
   * Supervisor: Prof. Xie 
@@ -25,20 +25,20 @@ Research experience
 * 01/2022- 05/2022: Research Study Assistant (IEOR), CUHK (shenzhen)
    * Supervisor: Prof. Gao
 
-Awards
+# Awards
 ======
 * Undergraduate Research Awards
 * AY2021-2022, Dean List
 * Inspirational Admission Scholarship
 
-Publications
+# Publications
 ======
  
 
   
 
   
-Service and leadership
+# leadership
 ======
 * Founder, Scool of Data Science Student Club
 * VP, UAGV Association
