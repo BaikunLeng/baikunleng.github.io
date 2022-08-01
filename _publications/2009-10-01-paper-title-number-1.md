@@ -1,6 +1,6 @@
 ---
 title: ""
-collection: publications
+collection: 
 permalink: 
 excerpt: 
 date: 
