@@ -16,24 +16,22 @@ Education
 
 Research experience
 ======
-* Summer 2015: Research Study Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 08/2022-10/2022: Summer Research Intern (STAT)
+  * CUHK (shenzhen)
+  * Supervisor: Prof. Xie 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 06/2022- till now: Research Assistant (IEOR)
+  * CUHK (shenzhen)
+  * Supervisor: Prof. Lu
+* 01/2022- 05/2022: Research Study Assistant (IEOR)
+  * CUHK (shenzhen)
+  * Supervisor: Prof. Gao
+
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Undergraduate Research Awards
+* Dean List
+* Inspirational Admission Scholarship
 
 Publications
 ======
@@ -44,4 +42,8 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Founder, Scool of Data Science Student Club
+* VP, UAGV Association
+* VP, Computer @nd Comity
+* CoFounder, Yue Yi Tutor Organazation
+* Founder, Media Operations, MYKW Wechat Official Account
