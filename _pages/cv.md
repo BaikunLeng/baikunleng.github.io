@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,21 +16,19 @@ Education
 
 Research experience
 ======
-* 08/2022-10/2022: Summer Research Intern (STAT)
-  * CUHK (shenzhen)
+* 08/2022-10/2022: Summer Research Intern (STAT), CUHK (shenzhen)
   * Supervisor: Prof. Xie 
 
-* 06/2022- till now: Research Assistant (IEOR)
-  * CUHK (shenzhen)
-  * Supervisor: Prof. Lu
-* 01/2022- 05/2022: Research Study Assistant (IEOR)
-  * CUHK (shenzhen)
-  * Supervisor: Prof. Gao
+* 06/2022- till now: Research Assistant (IEOR), CUHK (shenzhen)
+   * Supervisor: Prof. Lu
+
+* 01/2022- 05/2022: Research Study Assistant (IEOR), CUHK (shenzhen)
+   * Supervisor: Prof. Gao
 
 Awards
 ======
 * Undergraduate Research Awards
-* Dean List
+* AY2021-2022, Dean List
 * Inspirational Admission Scholarship
 
 Publications
