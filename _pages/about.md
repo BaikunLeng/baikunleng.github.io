@@ -12,9 +12,9 @@ About Me
 ======
 Baikun Leng is an Undergraduate Student in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). Besides, he is a one year visiting student in the Department of Computer Science at [UC Berkeley](https://www.berkeley.edu/). 
 
-He has multiple research experience related to IEOR, ITOM, STAT. Currently he focuses on deep reinforcement learning. For the programming language, he masters python, wolfram, MATLAB, Stata. For the technique skills, he has a good command of Data Analysis, Statistical Analysis, Machine Learning, Deep Learning.
+He has multiple research experience related to IEOR, ITOM, STAT. Currently he focuses on deep reinforcement learning. For the programming language, he masters java, python, wolfram, MATLAB, Stata, Simio. For the technique skills, he has a good command of Data Analysis, Statistical Analysis, Machine Learning, Deep Learning.
 
-
+Email: leonleng@berkeley.edu; baikunleng@link.cuhk.edu.cn
 
 
 
