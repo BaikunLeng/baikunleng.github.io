@@ -14,6 +14,7 @@ Education
 * B.S. in School of Data Science, the Chinese University of Hong Kong, Shenzhen 2020-2024
 * Visiting in EECS Department, UC Berkeley, 2022-2023
 
+
 Research experience
 ======
 * 08/2022-10/2022: Summer Research Intern (STAT), CUHK (shenzhen)
@@ -31,7 +32,9 @@ Awards
 * AY2021-2022 University Leadership Award
 * AY2021-2022 First Rank of Master’s List Awards
 
-  
+Service
+=====
+
 leadership
 =====
 * Founder, President Scool of Data Science Student Club
