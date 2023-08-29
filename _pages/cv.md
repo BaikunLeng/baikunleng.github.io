@@ -21,9 +21,7 @@ Research experience
 
 * 06/2022- till now: Research Assistant (IEOR), CUHK (shenzhen)
    * Supervisor: Prof. Jiaqi Lu & Prof. Costas COURCOUBETIS 
-
-* 01/2022- 05/2022: Research Study Assistant (IEOR), CUHK (shenzhen)
-   * Supervisor: Prof. Gao Pin  
+ 
 
 Awards
 ======
