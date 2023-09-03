@@ -18,5 +18,6 @@ Beyond my academic journey, I also have a one year experience of investment anal
 
 **I'm passionately pursuing a Ph.D. in OM/OR for Fall 2024!**
 
-Current Email: **leonleng0730** at **gmail** dot com
+[Email me](mailto:leonleng0730@gmail.com)
+
 
