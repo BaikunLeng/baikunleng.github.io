@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: /Research/    
 
-  - title: "Service"
-    url: /Service/    
+  - title: "Industry & Service"
+    url: /Industry & Service/    
     
   - title: "Others"
     url: /Others/
@@ -15,8 +15,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
 #  - title: "Guide"
  #   url: /markdown/
