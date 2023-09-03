@@ -8,7 +8,7 @@ author_profile: true
 
 Work in Progress
 =====
-**Fairness in Blockchain-Enabled Insurance Adoption** //
+**Fairness in Blockchain-Enabled Insurance Adoption**<br>
 Supervisor(s): Rowena Gan
 
 Online Learning Under Markov Choice Model with Network Effect 
