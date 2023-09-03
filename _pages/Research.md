@@ -5,9 +5,8 @@ permalink: /Research/
 author_profile: true
 ---
 
-During my undergradute period, I'm fortunately be supervised and collabrated projects with many professors: 
 
-Working in Progress
+Work in Progress
 =====
 Fairness in Blockchain-Enabled Insurance Adoption 
 Supervisor(s): Rowena Gan
