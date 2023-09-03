@@ -5,7 +5,13 @@ permalink: /Research/
 author_profile: true
 ---
 
-Education
+During my undergradute period, I'm fortunately be supervised and collabrated projects with many professors: 
+
+Working in Progress
 =====
-* B.S. in School of Data Science, the Chinese University of Hong Kong, Shenzhen 2020-2024
-* Visiting in EECS Department, UC Berkeley, 2022-2023
+Fairness in Blockchain-Enabled Insurance Adoption 
+Supervisor(s): Rowena Gan
+
+Online Learning Under Markov Choice Model with Network Effect 
+Supervisor(s): Gallego Guillermo & Zizhuo Wang & Yinyu Ye
+
