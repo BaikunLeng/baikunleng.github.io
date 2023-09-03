@@ -1,17 +1,11 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /Research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
+Education
+=====
+* B.S. in School of Data Science, the Chinese University of Hong Kong, Shenzhen 2020-2024
+* Visiting in EECS Department, UC Berkeley, 2022-2023
