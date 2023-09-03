@@ -32,4 +32,4 @@ Individual Projects & Ph.D. Course Projects
 Supervisor(s): [Prof. Liyan Xie](https://sds.cuhk.edu.cn/en/teacher/430) &[Prof. Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/)
 
 **Berkeley Undergraduate Research Program**<br>
-Supervisor(s): [Prof. Ernesto Dal Bo](https://scholar.google.com/citations?hl=en&user=JIOIEp0AAAAJ&view_op=list_works)https://scholar.google.com/citations?hl=en&user=JIOIEp0AAAAJ&view_op=list_works) & [Lukas Leucht]
+Supervisor(s): [Prof. Ernesto Dal Bo](https://scholar.google.com/citations?hl=en&user=JIOIEp0AAAAJ&view_op=list_works) & [Lukas Leucht]
