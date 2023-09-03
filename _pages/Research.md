@@ -22,4 +22,11 @@ Supervisor(s): [Prof. Costas Courcoubetis](https://scholar.google.com/citations?
 **Simulation for Video Game Server Under Different Matchmaking Strategies** [See Reports](https://drive.google.com/file/d/1TKcNLrzLmfUp7w57gWiFhi6oJkII0iQq/view?usp=sharing)<br>
 Supervisor(s): [Prof. Zeyu Zheng](https://zheng.ieor.berkeley.edu/)<br>
 
+Individual Projects & Ph.D. Course Projects
+=====
+**Assortment Planning for two stages personalized recommendations**[See Report](https://drive.google.com/file/d/16Nsm2FfT3Kl-ff-QCoFL0T4ANdB_1inD/view?usp=sharing)<br>
 
+**Survey: Queuing Simulation under Heavy Traffic Condition**[See Report](https://drive.google.com/file/d/1-IfXVFaTABpy4byV6kGL-pU1RAeX-bog/view?usp=sharing)<br>
+
+**Sequential Subspace Change-Point Detection**[See Report](https://drive.google.com/file/d/1-IfXVFaTABpy4byV6kGL-pU1RAeX-bog/view?usp=sharing)<br>
+Supervisor(s): [Prof. Liyan Xie](https://sds.cuhk.edu.cn/en/teacher/430) &[Prof. Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/)
