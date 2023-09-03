@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Database Administrator, [Crypto and Blockchain Economics Research Forum](https://www.cber-forum.org/literature)
 =====
-* B.S. in School of Data Science, the Chinese University of Hong Kong, Shenzhen 2020-2024
-* Visiting in EECS Department, UC Berkeley, 2022-2023
+Curated a database of blockchain-related papers from UTD-24 and top-5 Econ journals, detailing features such as journal name, relevant areas, keywords, and citation count. Continuously responsible for updating with new publications.
