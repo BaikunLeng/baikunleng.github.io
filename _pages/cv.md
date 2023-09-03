@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-                                                              
+[cv](https://github.com/BaikunLeng/baikunleng.github.io/blob/master/Resume_Baikun%20Leng.pdf)
+                                              
