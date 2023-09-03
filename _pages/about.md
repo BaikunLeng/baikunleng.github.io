@@ -10,7 +10,7 @@ redirect_from:
 
 About 
 ======
-Welcome! My name is Baikun (Leon) Leng. I'm an undergraduate senior in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). Besides, I'm also a one year visiting student in [the Department of IEOR](https://ieor.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). 
+Welcome! My name is Baikun (Leon) Leng. I'm a senior undergraduate in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). Additionally, I spent my junior year as a visiting student in [the Department of IEOR](https://ieor.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). 
 
 I am enthusiastic about exploring a diverse range of research directions and emerging topics. During my undergraduate period, my primary research interests are Opertions Interface and Market Design with the aim of address operational challenges arising in businesses and society, using tools from game theory, anaytical modelling, optimization, online learning and so on. 
 
