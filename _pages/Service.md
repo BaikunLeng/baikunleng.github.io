@@ -19,5 +19,5 @@ Research Program (URAP), Data Analyst, [**Berkeley Haas**](https://haas.berkeley
 
 Academic Service
 =====
-Database Administrator: [Crypto and Blockchain Economics Research Forum](https://www.cber-forum.org/literature)
+Database Administrator: [**Crypto and Blockchain Economics Research Forum**](https://www.cber-forum.org/literature)
 
