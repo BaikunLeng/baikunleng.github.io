@@ -7,10 +7,10 @@ main:
     url: /research/    
 
   - title: "Serivce"
-  #  url: /service/    
+    url: /service/    
     
- # - title: "team"
- #   url: /team/
+  - title: "others"
+    url: /others/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
