@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-[**my CV**](https://github.com/BaikunLeng/baikunleng.github.io/blob/master/Resume_Baikun%20Leng.pdf)
+[**my CV**](https://raw.githubusercontent.com/BaikunLeng/baikunleng.github.io/blob/master/Resume_Baikun%20Leng.pdf)
                                               
