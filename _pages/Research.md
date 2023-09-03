@@ -31,5 +31,3 @@ Survey: Queuing Simulation under Heavy Traffic Condition [See Report](https://dr
 Sequential Subspace Change-Point Detection [See Report](https://drive.google.com/file/d/1-IfXVFaTABpy4byV6kGL-pU1RAeX-bog/view?usp=sharing)<br>
 Supervisor(s): [Prof. Liyan Xie](https://sds.cuhk.edu.cn/en/teacher/430) &[Prof. Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/)
 
-Berkeley Undergraduate Research Program<br>
-Supervisor(s): [Prof. Ernesto Dal Bo](https://scholar.google.com/citations?hl=en&user=JIOIEp0AAAAJ&view_op=list_works) & Lukas Leucht
