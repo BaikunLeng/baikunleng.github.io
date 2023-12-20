@@ -12,7 +12,7 @@ About
 ======
 Welcome! My name is Baikun (Leon) Leng. I'm a senior undergraduate in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). Additionally, I spent my junior year as a visiting student in [the Department of IEOR](https://ieor.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). 
 
-I am passionate about exploring a wide array of research directions and emerging topics. Throughout my undergraduate studies, my primary research interests have been in Operations Interface and Market Design. I aim to address operational challenges that arise in business and society using tools from analytical modeling & optimization and data-driven methods such as online learning, and more. 
+I am passionate about exploring a wide array of research directions and emerging topics. Throughout my undergraduate studies, my primary research interests have been in Operations Interface and Market Design. I aim to address operational challenges that arise in business and society using tools from analytical modeling & optimization and data-driven methods such as online learning and more. 
 
 I'm currently working on (i) Online Learning under Markov Choice Model with Network Effects with [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/), [Prof. Guillermo Gallego](https://scholar.google.com/citations?user=FK7w8QIAAAAJ&hl=zh-CN) and [Prof.Yinyu Ye](https://web.stanford.edu/~yyye/), and (ii) Fairness in Blockchain Adoption Insurance with [Prof. Rowena Gan](https://www.smu.edu/cox/Our-People-and-Community/Faculty/Rowena-J-Gan). 
 
