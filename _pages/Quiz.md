@@ -64,7 +64,8 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
 <hr/>
 <div class="row">
     <div class="col-sm-4">
-        <img class="img-responsive" src="https://diffzi.com/wp-content/uploads/2018/11/Lays-vs.-Pringles.jpg" width="85%"/>
+        <img class="img-responsive" src="/images/KC.jpg" width="25%"/>
+
     </div>
 
     <div class="col-sm-8">
