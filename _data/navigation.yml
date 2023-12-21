@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /BaikunLengCV.pdf
     
-#  - title: "Guide"
- #   url: /markdown/
+  - title: "Quiz"
+    url: /Quiz/
