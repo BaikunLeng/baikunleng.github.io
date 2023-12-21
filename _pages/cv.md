@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
+[CV](https://baikunleng.github.io/BaikunLengCV.pdf){:target="_blank"}
 
-[**My CV**](https://drive.google.com/file/d/1ssdJ31yrEZAWoe47I7W0RJpdjvXEuWUE/view?usp=sharing)
                                               
