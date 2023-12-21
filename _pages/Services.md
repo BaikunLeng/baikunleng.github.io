@@ -19,8 +19,6 @@ Academic Services
 =====
 Database Administrator: [**Crypto and Blockchain Economics Research Forum**](https://www.cber-forum.org/literature)<br>
 
-<img src="/images/CBER.png" alt="CBER" width="300">
-
 External Organizer: [**UCSB-ECON DeFi Seminar**](https://ucsbdefi.wixsite.com/seminar)
 
-<img src="/images/UCSB.png" alt="UCSB" width="300">
+
