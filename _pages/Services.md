@@ -11,10 +11,11 @@ redirect_from:
 
 Industry Services
 =====
-* Head of Knowledge Management: [**KT Consulting**](https://ktconsult.org/)
+Head of Knowledge Management: [**KT Consulting**](https://ktconsult.org/)
 <img src="/images/KTC.png" alt="KT Consulting Logo" width="300">
 
 Academic Services
 =====
-* Database Administrator: [**Crypto and Blockchain Economics Research Forum**](https://www.cber-forum.org/literature)<br>
-* External Organizer: [**UCSB-ECON DeFi Seminar**](https://ucsbdefi.wixsite.com/seminar)
+Database Administrator: [**Crypto and Blockchain Economics Research Forum**](https://www.cber-forum.org/literature)<br>
+
+External Organizer: [**UCSB-ECON DeFi Seminar**](https://ucsbdefi.wixsite.com/seminar)
