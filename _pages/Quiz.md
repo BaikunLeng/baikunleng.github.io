@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<p>
-These are indisputable things in the world that people often don't realize. (Jk. More like things that charecterize me 🤔) Ordered in life-significance (to me). If you are 100% with me, shoot me an email we should grab a coffee at some point. 
-</p>
+<h1>Know Me Better by Taking This Quiz!</h1>
+
+<p><strong>Life isn't always black and white, but in the playful realm of my quiz, it is! Gear up for a series of binary choices that will unveil just how much we vibe together. Pick your potion, make your mark, and let's see if we're two peas in a pod or delightfully different. Let the games begin!</strong></p>
 
 <hr/>
 <div class="row">
