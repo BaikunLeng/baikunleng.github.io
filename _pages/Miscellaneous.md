@@ -13,7 +13,7 @@ redirect_from:
 
 <h2>Know Me Better by Taking This Quiz!</h2>
 
-<p>I travel a lot, for conferences and for vacation. I enjoy and marvel at the fantastic cultures and fabulous sceneries around the world. Below is a footprint of myself.</p>
+<p>In this quiz, you will need to make several binary choices. By answering these questions, you can discover how similar or different your preferences are from mine.</p>
 
 
 
