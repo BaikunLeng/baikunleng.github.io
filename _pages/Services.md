@@ -15,6 +15,5 @@ Head of Knowledge Management: [**KT Consulting**](https://ktconsult.org/)
 
 Academic Services
 =====
-Database Administrator: [**Crypto and Blockchain Economics Research Forum**](https://www.cber-forum.org/literature)<br>
-
-External Organizer: [**UCSB-ECON DeFi Seminar**](https://ucsbdefi.wixsite.com/seminar)
+* Database Administrator: [**Crypto and Blockchain Economics Research Forum**](https://www.cber-forum.org/literature)<br>
+* External Organizer: [**UCSB-ECON DeFi Seminar**](https://ucsbdefi.wixsite.com/seminar)
