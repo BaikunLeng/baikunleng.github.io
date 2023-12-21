@@ -268,7 +268,8 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
       <img class="img-responsive" src="/images/FamilyGuy.jpg" width="25%"/>
     </div>
    <div class="col-sm-8">
-        <p>
+       
+     <p>
         Question 7: The Simpsons or Family Guy?
         </p>
         <button onclick=" The Simpsons()"> The Simpsons</button>
