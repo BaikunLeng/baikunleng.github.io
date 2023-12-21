@@ -20,3 +20,4 @@ Research Program (URAP), Data Analyst, [**Berkeley Haas**](https://haas.berkeley
 Academic Service
 =====
 Database Administrator: [**Crypto and Blockchain Economics Research Forum**](https://www.cber-forum.org/literature)
+External Organizer: [**UCSB-ECON DeFi Seminar**](https://ucsbdefi.wixsite.com/seminar)
