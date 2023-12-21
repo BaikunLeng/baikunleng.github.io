@@ -13,7 +13,7 @@ redirect_from:
 
 <h2>Know Me Better by Taking This Quiz!</h2>
 
-<p>In this quiz, you will need to make several binary choices. By answering these questions, you can discover how similar or different your preferences are from mine.</p>
+<p>In this quiz, you will need to make several binary choices. By answering these questions, you can discover how similar or different your preferences are from mine! Click here to have a try! </p>
 
 
 
