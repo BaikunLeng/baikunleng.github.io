@@ -13,7 +13,10 @@ redirect_from:
 
 <h2>Know Me Better by Taking This Quiz!</h2>
 
-<p>In this quiz, you will need to make several binary choices. By answering these questions, you can discover how similar or different your preferences are from mine! Click here to have a try! </p>
+<p>## Ready for a Game of This or That?
+
+Life isn't always black and white, but in the playful realm of my quiz, it is! Gear up for a series of binary choices that will unveil just how much we vibe together. Pick your potion, make your mark, and let's see if we're two peas in a pod or delightfully different. Let the games begin!
+</p>
 
 
 
