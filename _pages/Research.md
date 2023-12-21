@@ -16,10 +16,10 @@ Supervisor(s): [Prof. Gallego Guillermo](https://scholar.google.com/citations?us
 
 Research Experience
 =====
-Two-stage Pollution Regulation of Competitive Carbon Markets [See Slides](https://docs.google.com/presentation/d/1pmbLB8UuMx-KbecMRhVRz1Z3nRTvz_DZ/edit?usp=sharing&ouid=102987446174325516956&rtpof=true&sd=true)<br>
+* Two-stage Pollution Regulation of Competitive Carbon Markets [See Slides](https://docs.google.com/presentation/d/1pmbLB8UuMx-KbecMRhVRz1Z3nRTvz_DZ/edit?usp=sharing&ouid=102987446174325516956&rtpof=true&sd=true)<br>
 Supervisor(s): [Prof. Costas Courcoubetis](https://scholar.google.com/citations?user=_vDxlTUAAAAJ&hl=en) & [Prof. Jiaqi Lu](https://sites.google.com/view/jiaqilu)<br>
 
-Simulation for Video Game Server Under Different Matchmaking Strategies [See Reports](https://drive.google.com/file/d/1TKcNLrzLmfUp7w57gWiFhi6oJkII0iQq/view?usp=sharing)<br>
+* Simulation for Video Game Server Under Different Matchmaking Strategies [See Reports](https://drive.google.com/file/d/1TKcNLrzLmfUp7w57gWiFhi6oJkII0iQq/view?usp=sharing)<br>
 Supervisor(s): [Prof. Zeyu Zheng](https://zheng.ieor.berkeley.edu/)<br>
 
 Individual Projects & Ph.D. Course Projects
