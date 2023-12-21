@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV](https://baikunleng.github.io/BaikunLengCV.pdf)
+[CV](/BaikunLengCV.pdf)
+
 
                                               
