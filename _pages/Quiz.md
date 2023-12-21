@@ -105,24 +105,24 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
 <hr/>
 <div class="row">
     <div class="col-sm-4">
-        <img class="img-responsive" src="http://p9.itc.cn/q_70/images03/20200625/5877604ed4284b149ebddb76d8d84ac1.jpeg" width="85%"/>
+         <img class="img-responsive" src="/images/DK.jpg" width="25%"/>
     </div>
 
     <div class="col-sm-8">
         <p>
-        Question 3: Zongzi with meat(肉粽) or Zongzi with sugar(甜粽)?
+        Question 3: Drake or Kanye?
         </p>
-        <button onclick="photo3()">Zongzi with meat(肉粽)</button>
-        <div id="answer3" style="display:none;">
-            Ok, not bad but also not great.
+        <button onclick="Drake()">Drake</button>
+        <div id="Drake" style="display:none;">
+            Albums are too commercial to be great.
         </div>
-        <button onclick="photo4()">Zongzi with sugar(甜粽)</button>
-        <div id="answer4" style="display:none;">
-            Yay! Zongzi, essentially, is a type of sweet desert :)
+        <button onclick="Kanye()">Kanye</button>
+        <div id="Kanye" style="display:none;">
+            The Real Artist of All Time!!!
         </div>
         <script>
-            function photo3() {
-              var x = document.getElementById("answer3");
+          function Drake() {
+              var x = document.getElementById("Drake");
               if (x.style.display === "none") {
                 x.style.display = "block";
               } else {
@@ -131,8 +131,8 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
             }
         </script>
         <script>
-            function photo4() {
-              var x = document.getElementById("answer4");
+            function Kanye() {
+              var x = document.getElementById("Kanye");
               if (x.style.display === "none") {
                 x.style.display = "block";
               } else {
