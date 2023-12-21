@@ -72,13 +72,13 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
         <p>
         Question 2: Kyrie or Stephen?
         </p>
-        <button onclick="Lays()">Lays</button>
-        <div id="Lays" style="display:none;">
-            When you buy Lays, you are just paying for the air inside.
+        <button onclick="Kyrie()">Kyrie</button>
+        <div id="Kyrie" style="display:none;">
+            Hélà. Let's Go!! Uncle Drew!
         </div>
-        <button onclick="Pringles()">Pringles</button>
-        <div id="Pringles" style="display:none;">
-            MasterPIECE.
+        <button onclick="Stephen()">Stephen</button>
+        <div id="Stephen" style="display:none;">
+            NIGHT NIGHT
         </div>
         <script>
             function Lays() {
