@@ -16,7 +16,7 @@ redirect_from:
 <hr/>
 <div class="row">
     <div class="col-sm-4">
-        <img class="img-responsive" src="https://cdn.cnn.com/cnnnext/dam/assets/180426115546-cola-wars-coke-pepsi.jpg" width="85%"/>
+        <img class="img-responsive" src="https://cdn.cnn.com/cnnnext/dam/assets/180426115546-cola-wars-coke-pepsi.jpg" width="50%"/>
     </div>
 
     <div class="col-sm-8">
