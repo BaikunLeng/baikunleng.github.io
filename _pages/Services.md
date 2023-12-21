@@ -12,7 +12,7 @@ redirect_from:
 Industry Services
 =====
 * Head of Knowledge Management: [**KT Consulting**](https://ktconsult.org/)
-
+![KT Consulting Logo](/images/KTC.png)
 
 Academic Services
 =====
