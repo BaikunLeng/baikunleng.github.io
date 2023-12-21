@@ -145,7 +145,7 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
 <hr/>
 <div class="row">
     <div class="col-sm-4">
-        <img class="img-responsive" src="https://cdn.britannica.com/86/166986-050-4CEFE5DE/cute-kitten-and-puppy-outdoors-in-grass.jpg" width="85%"/>
+        <img class="img-responsive" src="https://cdn.britannica.com/86/166986-050-4CEFE5DE/cute-kitten-and-puppy-outdoors-in-grass.jpg" width="25%"/>
     </div>
 
     <div class="col-sm-8">
@@ -154,11 +154,11 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
         </p>
         <button onclick="Dog()">Dog</button>
         <div id="Dog" style="display:none;">
-            Yes. Labrador. The best.
+            Yes! I love dogs!
         </div>
         <button onclick="Cat()">Cat</button>
         <div id="Cat" style="display:none;">
-            🐱
+            Yes! I love cats too!
         </div>
         <script>
             function Dog() {
