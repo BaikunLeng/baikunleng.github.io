@@ -273,7 +273,7 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
         Question 7: TheSimpsons or FamilyGuy?
         </p>
         <button onclick=" TheSimpsons()"> TheSimpsons</button>
-        <div id=" TheSimpsons" style="display:none;">
+        <div id="TheSimpsons" style="display:none;">
             Never Watch it.
         </div>
         <button onclick="FamilyGuy()">FamilyGuy</button>
