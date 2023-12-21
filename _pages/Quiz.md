@@ -188,7 +188,8 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
         <img class="img-responsive" src="/images/stfcal.jpg" width="25%"/>
     </div>
     <div class="col-sm-8">
-        <p>
+      
+      <p>
         Question 5: Stanford or Berkeley?
         </p>
           <button onclick="Stanford()">Stanford</button>
