@@ -270,19 +270,19 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
    <div class="col-sm-8">
        
      <p>
-        Question 7: The Simpsons or Family Guy?
+        Question 7: TheSimpsons or FamilyGuy?
         </p>
-        <button onclick=" The Simpsons()"> The Simpsons</button>
-        <div id=" The Simpsons" style="display:none;">
+        <button onclick=" TheSimpsons()"> TheSimpsons</button>
+        <div id=" TheSimpsons" style="display:none;">
             Never Watch it.
         </div>
-        <button onclick="Family Guy()">Family Guy</button>
-        <div id="Family Guy" style="display:none;">
+        <button onclick="FamilyGuy()">FamilyGuy</button>
+        <div id="FamilyGuy" style="display:none;">
             Unga Bunga! Unga Bunga!! Unga Bunga!!!
         </div>
         <script>
-            function The Simpsons() {
-              var x = document.getElementById("The Simpsons");
+            function TheSimpsons() {
+              var x = document.getElementById("TheSimpsons");
               if (x.style.display === "none") {
                 x.style.display = "block";
               } else {
@@ -291,8 +291,8 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
             }
         </script>
         <script>
-            function Family Guy() {
-              var x = document.getElementById("Family Guy");
+            function FamilyGuy() {
+              var x = document.getElementById("FamilyGuy");
               if (x.style.display === "none") {
                 x.style.display = "block";
               } else {
