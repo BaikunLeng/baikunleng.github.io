@@ -81,8 +81,8 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
             NIGHT NIGHT
         </div>
         <script>
-            function Lays() {
-              var x = document.getElementById("Lays");
+            function Kyrie() {
+              var x = document.getElementById("Kyrie");
               if (x.style.display === "none") {
                 x.style.display = "block";
               } else {
@@ -91,8 +91,8 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
             }
         </script>
         <script>
-            function Pringles() {
-              var x = document.getElementById("Pringles");
+            function Stephen() {
+              var x = document.getElementById("Stephen");
               if (x.style.display === "none") {
                 x.style.display = "block";
               } else {
