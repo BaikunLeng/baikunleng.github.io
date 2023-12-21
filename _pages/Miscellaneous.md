@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Others/
+permalink: /Miscellaneous/
 author_profile: true
 redirect_from:
   - /resume
