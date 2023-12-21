@@ -24,7 +24,7 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
 <hr/>
 <div class="row">
     <div class="col-sm-4">
-        <img class="img-responsive" src="https://cdn.cnn.com/cnnnext/dam/assets/180426115546-cola-wars-coke-pepsi.jpg" width="50%"/>
+        <img class="img-responsive" src="https://cdn.cnn.com/cnnnext/dam/assets/180426115546-cola-wars-coke-pepsi.jpg" width="30%"/>
     </div>
 
     <div class="col-sm-8">
