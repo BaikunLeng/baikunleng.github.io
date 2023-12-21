@@ -70,7 +70,7 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
 
     <div class="col-sm-8">
         <p>
-        Question 2: Lays or Pringles?
+        Question 2: Kyrie or Stephen?
         </p>
         <button onclick="Lays()">Lays</button>
         <div id="Lays" style="display:none;">
