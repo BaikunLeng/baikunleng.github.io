@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Service/
+permalink: /Services/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Industry Service
+Industry Services
 =====
 Head of Knowledge Management: [**KT Consulting**](https://ktconsult.org/)
 
-Academic Service
+Academic Services
 =====
 Database Administrator: [**Crypto and Blockchain Economics Research Forum**](https://www.cber-forum.org/literature)<br>
 External Organizer: [**UCSB-ECON DeFi Seminar**](https://ucsbdefi.wixsite.com/seminar)
