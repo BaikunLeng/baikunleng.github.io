@@ -17,7 +17,7 @@ Life isn't always black and white, but in my quiz, it is! Gear up for a series o
 <p></p>
 
 <p>
-Acknowledgement: I got this idea from Muyan Jiang who is a Ph.D. student at Berkeley.
+Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berkeley.
 </p>
 
 
