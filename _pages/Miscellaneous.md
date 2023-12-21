@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Know Me Better by Taking This Quiz!
 =====
-* B.S. in School of Data Science, the Chinese University of Hong Kong, Shenzhen 2020-2024
-* Visiting in IEOR Department, UC Berkeley, 2022-2023
+
   
 Awards
 ======
