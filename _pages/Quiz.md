@@ -13,7 +13,7 @@ redirect_from:
 
 <p>
 Life isn't always black and white, but in my quiz, it is! Gear up for a series of binary choices that will unveil just how much we vibe together. If you are 100% with me, <strong> shoot me an email</strong> we should grab a coffee at some point! 
-
+<br>
 Acknowledgement: I got this idea from Muyan Jiang who is a Ph.D. student at Berkeley.
 </p>
 
