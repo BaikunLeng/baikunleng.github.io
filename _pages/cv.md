@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-[CV](/BaikunLengCV.pdf)
+<a href="/BaikunLengCV.pdf">CV</a>
+
 
 
                                               
