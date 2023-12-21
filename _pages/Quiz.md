@@ -185,23 +185,23 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
 <hr/>
 <div class="row">
     <div class="col-sm-4">
-        <img class="img-responsive" src="http://img.mp.itc.cn/upload/20170407/6ed9c11c35344c4387e4c67adac3b920_th.png" width="85%"/>
+        <img class="img-responsive" src="/images/stfcal.jpg" width="25%"/>
     </div>
     <div class="col-sm-8">
         <p>
-        Question 5: Chongqing hotpot or Chengdu hotpot?
+        Question 5: Stanford or Berkeley?
         </p>
-        <button onclick="Chongqing()">Chongqing</button>
-        <div id="Chongqing" style="display:none;">
-            There are many reasons that you should (always🤓) go with Chongqing hotpot. In short, check out this <a href="https://www.sohu.com/a/132630554_385445">article</a>.
+          <button onclick="Stanford()">Stanford</button>
+        <div id="Stanford" style="display:none;">
+            Bruh?! Are You Serious?
         </div>
-        <button onclick="Chengdu()">Chengdu</button>
-        <div id="Chengdu" style="display:none;">
-            Click the other one I'll tell you.
+        <button onclick="Berkeley()">Berkeley</button>
+        <div id="Berkeley" style="display:none;">
+            I love Berkeley... But GO BRUINS!!!
         </div>
         <script>
-            function Chongqing() {
-              var x = document.getElementById("Chongqing");
+            function Stanford() {
+              var x = document.getElementById("Stanford");
               if (x.style.display === "none") {
                 x.style.display = "block";
               } else {
@@ -210,8 +210,8 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
             }
         </script>
         <script>
-            function Chengdu() {
-              var x = document.getElementById("Chengdu");
+            function Berkeley() {
+              var x = document.getElementById("Berkeley");
               if (x.style.display === "none") {
                 x.style.display = "block";
               } else {
