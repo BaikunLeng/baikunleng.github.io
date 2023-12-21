@@ -267,8 +267,7 @@ Acknowledgement: This idea was inspired by Muyan Jiang, a Ph.D. student at Berke
     <div class="col-sm-4">
       <img class="img-responsive" src="/images/FamilyGuy.jpg" width="25%"/>
     </div>
-
-    <div class="col-sm-8">
+   <div class="col-sm-8">
         <p>
         Question 7: The Simpsons or Family Guy?
         </p>
