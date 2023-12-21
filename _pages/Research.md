@@ -8,10 +8,10 @@ author_profile: true
 
 Work in Progress
 =====
-*Fairness in Blockchain-Enabled Insurance Adoption<br>
+* Fairness in Blockchain-Enabled Insurance Adoption<br>
 Supervisor(s): [Prof. Rowena Gan](https://www.smu.edu/cox/Our-People-and-Community/Faculty/Rowena-J-Gan)
 
-*Online Learning Under Markov Choice Model with Network Effect<br> 
+* Online Learning Under Markov Choice Model with Network Effect<br> 
 Supervisor(s): [Prof. Gallego Guillermo](https://scholar.google.com/citations?user=FK7w8QIAAAAJ&hl=zh-CN) & [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/) & [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/)
 
 Research Experience
