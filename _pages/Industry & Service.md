@@ -9,13 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Industry
+Industry Service
 =====
-Research Intern, Blockchain Researcher & Investment Analyst, [**Nothing Research**](https://www.nothing-research.com/)<br>
-Research Intern, Blockchain Researcher, [**Meridian Capital**](http://www.meridiancapital.com.cn/en/index.aspx)<br>
-Research Intern, Data Analyst, [**US Arctic Research Commission**](https://www.arctic.gov/)<br>
-Research Program (URAP), Data Analyst, [**Berkeley Haas**](https://haas.berkeley.edu/)<br>
-
+Head of Knowledge Management: [**KT Consulting**](https://ktconsult.org/)
 
 Academic Service
 =====
