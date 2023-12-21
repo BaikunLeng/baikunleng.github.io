@@ -11,7 +11,7 @@ redirect_from:
 
 <h1>Know Me Better by Taking This Quiz!</h1>
 
-<p><strong>Life isn't always black and white, but in my quiz, it is! Gear up for a series of binary choices that will unveil just how much we vibe together. If you are 100% with me, <strong> shoot me an email</strong> we should grab a coffee at some point! </p>
+<p>Life isn't always black and white, but in my quiz, it is! Gear up for a series of binary choices that will unveil just how much we vibe together. If you are 100% with me, <strong> shoot me an email</strong> we should grab a coffee at some point! </p>
 
 <hr/>
 <div class="row">
