@@ -16,11 +16,9 @@ I'm passionate about travel, having explored nine countries. As I embark on my j
 
 <img src="https://baikunleng.github.io/images/Rplot.jpg" width="50%"/>
 
+### See My Traveling Albums 
 
-
-## Photography
-I’m constantly studying and improving my photography skills. Below is a sample of my work from my Instagram. They are from Banff in Canada, Dream Lake in USA, Angkor Wat in Cambodia, and Quarry Bay in Hong Kong.
-
+Berkeley[]
 
 
 
