@@ -14,7 +14,7 @@ redirect_from:
 ## Travel
 I have a deep passion for traveling, embracing the beauty of different landscapes. Up to this point, I've had the opportunity to travel or live in nine countries. As I embark on my journey as a PhD candidate, I look forward to attending conferences in various places and exploring more countries to further enrich my experiences. Below is a footprint of myself.
 
-![World Map](URL_or_path_to_image)
+![World Map](https://baikunleng.github.io/images/Rplot.jpg)
 
 
 
