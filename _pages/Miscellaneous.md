@@ -24,9 +24,6 @@ I'm passionate about travel, having explored nine countries. As I embark on my j
 | [Shenzhen](链接5) | [链接文本6](链接6) | [链接文本7](链接7) | [链接文本8](链接8) |
 
 
-| Berkeley | Los Angeles | New York City | Boston |
-|:--------:|:-----------:|:-------------:|:------:|
-| Shenzhen | 链接文本6   | 链接文本7     | 链接文本8   |
 
 
 
