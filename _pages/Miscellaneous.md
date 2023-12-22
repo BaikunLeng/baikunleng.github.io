@@ -12,6 +12,7 @@ redirect_from:
 <h1>Miscellaneous</h1>
 
 
+[点击这里查看演示视频](https://baikunleng.github.io/myVisitedPlaces.webm)
 
 
 
