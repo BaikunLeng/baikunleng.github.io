@@ -16,9 +16,9 @@ I'm passionate about travel, having explored nine countries. As I embark on my j
 
 <img src="https://baikunleng.github.io/images/Rplot.jpg" width="50%"/>
 
-#### See My Traveling Albums 
+#### See My Traveling Albums: 
 
-Berkeley[]
+Berkeley(https://photos.app.goo.gl/pK9AAPvCiR1WHB258)
 
 
 
