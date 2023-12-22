@@ -9,10 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-<h1>Miscellaneous</h1>
+# Miscellaneous
+
+## Travel
+I have a deep passion for traveling, embracing the beauty of different landscapes. Up to this point, I've had the opportunity to travel or live in nine countries. As I embark on my journey as a PhD candidate, I look forward to attending conferences in various places and exploring more countries to further enrich my experiences.Below is a footprint of myself.
 
 
-[点击这里查看演示视频](https://baikunleng.github.io/myVisitedPlaces.webm)
+
+## Photography
+I’m constantly studying and improving my photography skills. Below is a sample of my work from my Instagram. They are from Banff in Canada, Dream Lake in USA, Angkor Wat in Cambodia, and Quarry Bay in Hong Kong.
+
 
 
 
