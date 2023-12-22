@@ -18,7 +18,7 @@ I'm passionate about travel, having explored nine countries. As I embark on my j
 
 #### See My Traveling Albums: 
 
-Berkeley(https://photos.app.goo.gl/pK9AAPvCiR1WHB258)
+[Berkeley](https://photos.app.goo.gl/pK9AAPvCiR1WHB258)
 
 
 
