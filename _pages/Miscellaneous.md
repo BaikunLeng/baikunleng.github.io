@@ -27,6 +27,10 @@ I'm passionate about travel, having explored nine countries. As I embark on my j
 
 
 
+| | | | |
+|-|-|-|-|
+| [Berkeley](https://photos.app.goo.gl/pK9AAPvCiR1WHB258) | [Los Angeles](https://photos.app.goo.gl/aHzbdyJh1drJ5yH26) | [New York City](https://photos.app.goo.gl/Foq7DTBVztGrAdiC7) | [Boston](https://photos.app.goo.gl/A5W44seKAZgY5Sfd8) |
+| [Shenzhen](链接5) | [链接文本6](链接6) | [链接文本7](链接7) | [链接文本8](链接8) |
 
 
 
