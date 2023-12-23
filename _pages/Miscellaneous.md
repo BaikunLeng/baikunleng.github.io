@@ -21,7 +21,7 @@ I'm passionate about travel, having explored nine countries. As I embark on my j
 |          |          |          |          |
 |:--------:|:--------:|:--------:|:--------:|
 | [Berkeley](https://photos.app.goo.gl/pK9AAPvCiR1WHB258) | [Los Angeles](https://photos.app.goo.gl/aHzbdyJh1drJ5yH26) | [New York City](https://photos.app.goo.gl/Foq7DTBVztGrAdiC7) | [Boston](https://photos.app.goo.gl/A5W44seKAZgY5Sfd8) |
-| [Shenzhen](https://photos.app.goo.gl/5cQSqT4JhbtEz2uc7) | [Harbin](https://photos.app.goo.gl/TsL3Mh76mGX9y5aF8) | [Child](https://photos.app.goo.gl/iabyrjJahW7vp31f7) | [Special Theme](https://photos.app.goo.gl/B1RCW1BE2zuQLipZ8) |
+| [Shenzhen](https://photos.app.goo.gl/5cQSqT4JhbtEz2uc7) | [Harbin](https://photos.app.goo.gl/TsL3Mh76mGX9y5aF8) | [Child](https://photos.app.goo.gl/iabyrjJahW7vp31f7) | [Friends](https://photos.app.goo.gl/YeK17bmobkwjWtZFA) |
 
 
 
