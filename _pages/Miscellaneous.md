@@ -12,7 +12,9 @@ redirect_from:
 # Miscellaneous
 
 ## Travel
-I'm passionate about travel, having explored nine countries. As I embark on my journey as a PhD candidate, I look forward to attending conferences in various places and exploring more countries to further enrich my experiences. Below is a footprint of myself.
+I'm passionate about travel, having explored nine countries. As I embark on my journey as a PhD candidate, I look forward to attending conferences in various places and exploring more countries to further enrich my experiences. Below is a footprint of myself. 
+
+Acknowledgement: thanks for Prof. Xiao Lei and Prof. Zizhuo Wang providing the insights. 
 
 <img src="https://baikunleng.github.io/images/Rplot.jpg" width="50%"/>
 
