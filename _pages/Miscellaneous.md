@@ -30,7 +30,8 @@ Here are some collections of useful open-source resources. Hope you will enjoy t
 If you would like to add more materials to this part, feel free to reach out to me!  
 
 #### How to prepare for a Ph.D. especially in OR/OM field
-
+1. Prof. Zizhuo Wang: [FAQ for studying Operations Research](https://mypage.cuhk.edu.cn/academics/wangzizhuo/ORFAQ.html) <br>
+2. 
 
 
 
