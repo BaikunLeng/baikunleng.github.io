@@ -18,7 +18,7 @@ Acknowledgement: thanks for Prof. Xiao Lei and Prof. Zizhuo Wang providing the i
 
 <img src="https://baikunleng.github.io/images/Rplot.jpg" width="50%"/>
 
-### See My Traveling Albums: 
+### See My Traveling Albums
 
 |          |          |          |          |
 |:--------:|:--------:|:--------:|:--------:|
@@ -29,9 +29,12 @@ Acknowledgement: thanks for Prof. Xiao Lei and Prof. Zizhuo Wang providing the i
 Here are some collections of useful open-source resources. Hope you will enjoy them. If you would like to add more materials to this part, feel free to reach out to me!  
 
 ### Ph.D. in OR/OM/ISE: From Zero Knowledge to Tenure Track
+#### What's OR/OM?
 * [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/): [FAQ for studying Operations Research](https://mypage.cuhk.edu.cn/academics/wangzizhuo/ORFAQ.html) <br>
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Video Introduction to Operation Research and Analytics](https://www.youtube.com/watch?v=5adE_cxtSbY)<br>
+#### Books/Papers Recommended
 * [Dr. Amira Hijazi](https://amhijazi.com/): [Resources for Graduate Students in OR/MS/ISE](https://amhijazi.com/post/resources/)
+#### Useful & Interesting Blogs
 * [Prof. Nick Arnosti](https://nickarnosti.com/): [Blogs: A Model World](https://mypage.cuhk.edu.cn/academics/wangzizhuo/ORFAQ.html) <br>
 
 
