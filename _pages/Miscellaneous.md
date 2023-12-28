@@ -44,7 +44,8 @@ Here are some collections of useful open-source resources. Hope you will enjoy t
 On this page, Dr. Amira Hijazi curates a selection of resources for OR/MS/ISE students, covering optimization knowledge, INFORMS Society guidance, academic website setup, and poster creation.
 * [Prof. Nick Arnosti](https://nickarnosti.com/): [Blogs: A Model World](https://nickarnosti.com/blog/) <br>
 On this page, Prof. Nick discusses market design, business operations, and sports, focusing on topics like information acquisition, lottery systems, and school choice.
-
+* [Prof. Christian Kroer](http://www.columbia.edu/~ck2945/): [Blogs: Reading Material List & Conference Deadlines List](http://www.columbia.edu/~ck2945/post/) <br>
+On this page, Prof. Christian collected a list of books that he recommended for getting up to speed on the most common types of math and optimization. Meanwhile, it also kept track of the set of conference deadlines for the current and upcoming year.
 #### Interesting Topics
 * [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
 On this page, Professor Will shares insights on how playing poker has enhanced his decision-making skills. He also offers detailed lectures on poker strategies, available on his YouTube channel and through MIT's open source courses
