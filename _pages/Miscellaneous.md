@@ -29,8 +29,8 @@ Acknowledgement: thanks for Prof. Xiao Lei and Prof. Zizhuo Wang providing the i
 Here are some collections of useful open-source resources. Hope you will enjoy them. If you would like to add more materials to this part, feel free to reach out to me!  
 
 #### How to prepare for a Ph.D. especially in OR/OM field
-** [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/): [FAQ for studying Operations Research](https://mypage.cuhk.edu.cn/academics/wangzizhuo/ORFAQ.html) <br>
-** [Prof.Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Video Introduction to Operation Research and Analytics](https://www.youtube.com/watch?v=5adE_cxtSbY)<br>
+* [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/): [FAQ for studying Operations Research](https://mypage.cuhk.edu.cn/academics/wangzizhuo/ORFAQ.html) <br>
+* [Prof.Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Video Introduction to Operation Research and Analytics](https://www.youtube.com/watch?v=5adE_cxtSbY)<br>
 **
 
 
