@@ -34,11 +34,15 @@ Here are some collections of useful open-source resources. Hope you will enjoy t
 * [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/): [FAQ for studying Operations Research](https://mypage.cuhk.edu.cn/academics/wangzizhuo/ORFAQ.html) <br>
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Video Introduction to Operation Research and Analytics](https://www.youtube.com/watch?v=5adE_cxtSbY)<br>
 
-#### Books/Papers Recommended
+#### Books/Papers/ Blogs Recommended
 * [Dr. Amira Hijazi](https://amhijazi.com/): [Resources for Graduate Students in OR/MS/ISE](https://amhijazi.com/post/resources/)<br>
-
-#### Useful & Interesting Blogs
 * [Prof. Nick Arnosti](https://nickarnosti.com/): [Blogs: A Model World](https://mypage.cuhk.edu.cn/academics/wangzizhuo/ORFAQ.html) <br>
+
+#### Ph.D. Application 
+* [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
+
+#### Faculty Position Application
+* [Prof. Yichuan Ding](https://blogs.ubc.ca/ycding/): [My Experience of Operations Management Faculty Position Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/yichuan-advice.pdf)<br>
 
 
 
