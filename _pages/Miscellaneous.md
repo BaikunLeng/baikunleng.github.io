@@ -26,7 +26,9 @@ Acknowledgement: thanks for Prof. Xiao Lei and Prof. Zizhuo Wang providing the i
 | [Shenzhen](https://photos.app.goo.gl/5cQSqT4JhbtEz2uc7) | [Injury](https://photos.app.goo.gl/TsL3Mh76mGX9y5aF8) | [Child](https://photos.app.goo.gl/iabyrjJahW7vp31f7) | [Friends](https://photos.app.goo.gl/YeK17bmobkwjWtZFA) |
 
 ## Aggregator
-Here are some collections of useful resources about how to prepare for a Ph.D. degree, especially in OM/OR concentration. Hope these can help you. If you would like to add more materials to this part, feel free to reach out to me! 
+Here are some collections of useful open-source resources. Hope you will enjoy them. If you would like to add more materials to this part, feel free to reach out to me!  
+
+#### How to prepare for a Ph.D. especially in OR/OM field
 
 
 
