@@ -43,7 +43,7 @@ Here are some collections of useful open-source resources. Hope you will enjoy t
 
 #### Faculty Position Application
 * [Prof. Yichuan Ding](https://blogs.ubc.ca/ycding/): [My Experience of Operations Management Faculty Position Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/yichuan-advice.pdf)<br>
-
+* [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [On the Operations Job Market: Reflections and Insights]([https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf)<br>
 
 
 
