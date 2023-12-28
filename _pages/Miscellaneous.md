@@ -26,7 +26,7 @@ Acknowledgement: thanks for Prof. Xiao Lei and Prof. Zizhuo Wang providing the i
 | [Shenzhen](https://photos.app.goo.gl/5cQSqT4JhbtEz2uc7) | [Injury](https://photos.app.goo.gl/TsL3Mh76mGX9y5aF8) | [Child](https://photos.app.goo.gl/iabyrjJahW7vp31f7) | [Friends](https://photos.app.goo.gl/YeK17bmobkwjWtZFA) |
 
 ## Aggregator
-Here are some collections of useful open-source resources. Hope you will enjoy them. 
+Here are some collections of useful open-source resources. Hope you will enjoy them. <br>
 If you would like to add more materials to this part, feel free to reach out to me!  
 
 #### How to prepare for a Ph.D. especially in OR/OM field
