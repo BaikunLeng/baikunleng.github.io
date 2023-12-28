@@ -38,8 +38,7 @@ Here are some collections of useful open-source resources. Hope you will enjoy t
 * [Dr. Amira Hijazi](https://amhijazi.com/): [Resources for Graduate Students in OR/MS/ISE](https://amhijazi.com/post/resources/)<br>
 On this page, Dr. Amira Hijazi curates a selection of resources for OR/MS/ISE students, covering optimization knowledge, INFORMS Society guidance, academic website setup, and poster creation.
 * [Prof. Nick Arnosti](https://nickarnosti.com/): [Blogs: A Model World](https://nickarnosti.com/blog/) <br>
-On this page, Prof. Nick shares his ideas related to market design, business and operations, sports and so on. 
-
+On this page, Prof. Nick discusses market design, business operations, and sports, focusing on topics like information acquisition, lottery systems, and school choice.
 
 #### Ph.D. Application 
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
