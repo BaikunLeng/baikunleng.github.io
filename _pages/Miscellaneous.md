@@ -34,10 +34,8 @@ Here are some collections of useful open-source resources. Hope you will enjoy t
 * [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/): [FAQ for studying Operations Research](https://mypage.cuhk.edu.cn/academics/wangzizhuo/ORFAQ.html) <br>
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Video Introduction to Operation Research and Analytics](https://www.youtube.com/watch?v=5adE_cxtSbY)<br>
 
-#### Ph.D. Application 
+#### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
-
-#### Job Market
 * [Prof. Yichuan Ding](https://blogs.ubc.ca/ycding/): [My Experience of Operations Management Faculty Position Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/yichuan-advice.pdf)<br>
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [On the Operations Job Market: Reflections and Insights](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf)<br>
 
@@ -47,8 +45,9 @@ On this page, Dr. Amira Hijazi curates a selection of resources for OR/MS/ISE st
 * [Prof. Nick Arnosti](https://nickarnosti.com/): [Blogs: A Model World](https://nickarnosti.com/blog/) <br>
 On this page, Prof. Nick discusses market design, business operations, and sports, focusing on topics like information acquisition, lottery systems, and school choice.
 
-
-
+#### Interesting Topics
+* [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
+On this page, Professor Will shares insights on how playing poker has enhanced his decision-making skills. He also offers detailed lectures on poker strategies, available on his YouTube channel and through MIT's open source courses
 
 
 
