@@ -60,13 +60,17 @@ On this page, Professor Xiao presents many interesting topics and insights on ho
 * [Prof. Torbjörn Netland](https://mtec.ethz.ch/people/person-detail.torbjoernnetland.html): [Better Operations](https://better-operations.com/links/)<br>
 This page is another blog aggregator set up by Prof. Torbjörn Netland. Here, you can find several OR/OM blogs, such as 'Jay and Barry’s OM Blog' created by Barry Render and Jay Heizer, 'Global Supply Chain Blog' created by the faculty at UCLA Anderson School, and others.
 * [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/): [Talks Collection](https://web.stanford.edu/~yyye/talks.html)<br>
-On this page, Prof. Ye gives a collection of his talks most recently, from 2020 to Now.  
+On this page, Prof. Ye gives a collection of his talks most recently, from 2020 to Now. 
 
 #### Interesting Topics
 * [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
 On this page, Professor Will shares insights on how playing poker has enhanced his decision-making skills. He also offers detailed lectures on poker strategies, available on his YouTube channel and through MIT's open source courses.
 * [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/): [Yinyu Ye: Sports led me from the rice fields to Stanford](https://engineering.stanford.edu/magazine/yinyu-ye-sports-led-me-rice-fields-stanford)<br>
 On this page, Professor Ye shares the story of his sports life and its impact on his long-term academic journey.
+
+#### Open-Source Datasets 
+* [Prof. Hamsa Bastani](https://hamsabastani.github.io/index.html): [Cancer Clinical Trial Dataset & Targeted COVID-19 Screening Dataset](https://hamsabastani.github.io/datasets.html)<br>
+On this page, Professor Hamsa shares the datasets she and her co-authors have collected with the aim of conducting Data-driven work.
 
 
 
