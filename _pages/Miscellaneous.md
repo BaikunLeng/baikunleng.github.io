@@ -46,7 +46,7 @@ Here are some collections of useful open-source resources. Thanks for all the au
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [On the Operations Job Market: Reflections and Insights](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf)<br>
 * [Prof. Nikhil Garg](https://gargnikhil.com/): [Operations job market advice: a step-by-step guide](https://gargnikhil.com/files/NikhilGarg_JobMarketAdvice.pdf)<br>
 
-#### Books/Papers/Blogs/Courses Recommended
+#### Blogs Recommended
 * [Dr. Amira Hijazi](https://amhijazi.com/): [Resources for Graduate Students in OR/MS/ISE](https://amhijazi.com/post/resources/)<br>
 On this page, Dr. Amira Hijazi curates a selection of resources for OR/MS/ISE students, covering optimization knowledge, INFORMS Society guidance, academic website setup, and poster creation.
 * [Prof. Nick Arnosti](https://nickarnosti.com/): [Blogs: A Model World](https://nickarnosti.com/blog/) <br>
