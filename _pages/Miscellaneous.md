@@ -53,6 +53,8 @@ On this page, Dr. Amira Hijazi curates a selection of resources for OR/MS/ISE st
 On this page, Prof. Nick discusses market design, business operations, and sports, focusing on topics like information acquisition, lottery systems, and school choice.
 * [Prof. Christian Kroer](http://www.columbia.edu/~ck2945/): [Blogs: Reading Material List & Conference Deadlines List](http://www.columbia.edu/~ck2945/post/) <br>
 On this page, Prof. Christian collected a list of books that he recommended for getting up to speed on the most common types of math and optimization. Meanwhile, it also kept track of the set of conference deadlines for the current and upcoming year.
+* [Prof. Al Roth](https://web.stanford.edu/~alroth/): [Market Design Blogs](http://marketdesigner.blogspot.com/) <br>
+On this page, Prof. Alvin posted Market Design related papers and news. He also set up a page called "Game theory, experimental economics, and market design", you may find another page through his personal website.
 
 #### Interesting Topics
 * [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
