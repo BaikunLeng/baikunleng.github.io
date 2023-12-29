@@ -55,14 +55,14 @@ On this page, Prof. Nick discusses market design, business operations, and sport
 On this page, Prof. Christian collected a list of books that he recommended for getting up to speed on the most common types of math and optimization. Meanwhile, it also kept track of the set of conference deadlines for the current and upcoming year.
 * [Prof. Al Roth](https://web.stanford.edu/~alroth/): [Market Design Blogs](http://marketdesigner.blogspot.com/) <br>
 On this page, Prof. Alvin posted Market Design related papers and news. He also set up a page called "Game theory, experimental economics, and market design", you may find another page through his personal website.
-* [Prof. Xiao Lei](http://xiao-lei.org/): [Operation Research in Daily Life (in Chinese)](https://www.zhihu.com/column/shzdycx)<br>
+* [Prof. Xiao Lei](http://xiao-lei.org/): [Blogs: Operation Research in Daily Life (in Chinese)](https://www.zhihu.com/column/shzdycx)<br>
 On this page, Professor Xiao presents many interesting topics and insights on how Operations Research and Operations Management (OR/OM) are applicable in our daily lives. It's very intriguing, but all the content is in Chinese.
 
 #### Interesting Topics
 * [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
 On this page, Professor Will shares insights on how playing poker has enhanced his decision-making skills. He also offers detailed lectures on poker strategies, available on his YouTube channel and through MIT's open source courses.
-* [Prof. Xiao Lei](http://xiao-lei.org/): [Operation Research in Daily Life (in Chinese)](https://www.zhihu.com/column/shzdycx)<br>
-On this page, Professor Xiao presents many interesting topics and insights on how Operations Research and Operations Management (OR/OM) are applicable in our daily lives. It's very intriguing, but all the content is in Chinese.
+* [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/): [Yinyu Ye: Sports led me from the rice fields to Stanford](https://engineering.stanford.edu/magazine/yinyu-ye-sports-led-me-rice-fields-stanford)<br>
+On this page, Professor Ye shares the story of his sports life and its impact on his long-term academic journey.
 
 
 
