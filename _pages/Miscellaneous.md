@@ -37,6 +37,7 @@ Here are some collections of useful open-source resources. Thanks for all the au
 #### How to do research?
 * [Prof. Andrey Fradkin](https://andreyfradkin.com/): [A Guide To Using Corporate Data for Academic Research](https://andreyfradkin.com/posts/2014/02/08/how-to-obtain-proprietary-datasets-for-research-part-1) <br>
 * [Prof. Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html): [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)<br>
+* [Prof. John Tsitsiklis](https://www.mit.edu/~jnt/home.html): [A Few Tips On Writing Papers With Mathematical Content](https://www.mit.edu/~jnt/Papers/R-20-write-v5.pdf)<br>
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
