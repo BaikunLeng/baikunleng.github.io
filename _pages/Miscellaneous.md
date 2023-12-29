@@ -59,7 +59,8 @@ On this page, Prof. Alvin posted Market Design related papers and news. He also 
 On this page, Professor Xiao presents many interesting topics and insights on how Operations Research and Operations Management (OR/OM) are applicable in our daily lives. It's very intriguing, but all the content is in Chinese.
 * [Prof. Torbjörn Netland](https://mtec.ethz.ch/people/person-detail.torbjoernnetland.html): [Better Operations](https://better-operations.com/links/)<br>
 This page is another blog aggregator set up by Prof. Torbjörn Netland. Here, you can find several OR/OM blogs, such as 'Jay and Barry’s OM Blog' created by Barry Render and Jay Heizer, 'Global Supply Chain Blog' created by the faculty at UCLA Anderson School, and others.
-
+* [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/): [Talks Collection](https://web.stanford.edu/~yyye/talks.html)<br>
+On this page, Prof. Ye gives a collection of his talks most recently, from 2020 to Now.  
 
 #### Interesting Topics
 * [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
