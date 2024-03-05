@@ -73,7 +73,7 @@ On this page, Professor Ye shares the story of his sports life and its impact on
 * [Prof. Hamsa Bastani](https://hamsabastani.github.io/index.html): [Cancer Clinical Trial Dataset & Targeted COVID-19 Screening Dataset](https://hamsabastani.github.io/datasets.html)<br>
 * [Technion SEE Lab For Data On Healthcare And Call Center Operations ](https://seelab.net.technion.ac.il/)
 * [MIMIC-III Clinical Database: Healthcare Datasets](https://physionet.org/content/mimiciii/1.4/)
-##### Recommend System Datasets 
+##### Recommendation System Datasets 
 * [Microsoft MIND Data Set For Recommendation Systems](https://msnews.github.io/)
 * [BARS: Dataset/Benchmark Collection For Recommendation Systems](https://openbenchmark.github.io/BARS/index.html)
 ##### Other Datasets 
