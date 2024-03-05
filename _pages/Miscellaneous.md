@@ -68,7 +68,7 @@ On this page, Professor Will shares insights on how playing poker has enhanced h
 * [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/): [Yinyu Ye: Sports led me from the rice fields to Stanford](https://engineering.stanford.edu/magazine/yinyu-ye-sports-led-me-rice-fields-stanford)<br>
 On this page, Professor Ye shares the story of his sports life and its impact on his long-term academic journey.
 
-#### Open-Source Datasets 
+#### Open-Source Datasets/Librarys
 ##### Healthcare Datasets 
 * [Prof. Hamsa Bastani](https://hamsabastani.github.io/index.html): [Cancer Clinical Trial Dataset & Targeted COVID-19 Screening Dataset](https://hamsabastani.github.io/datasets.html)<br>
 * [Technion SEE Lab For Data On Healthcare And Call Center Operations ](https://seelab.net.technion.ac.il/)
@@ -78,7 +78,7 @@ On this page, Professor Ye shares the story of his sports life and its impact on
 * [Microsoft MIND Data Set For Recommendation Systems](https://msnews.github.io/)
 ##### Revenue Management Datasets 
 * [Prof. Huseyin Topaloglu](https://people.orie.cornell.edu/huseyin/index.html): [Datasets Related to Revenue Management](https://people.orie.cornell.edu/huseyin/research/research.html)<br>
-##### OR Related Datasets 
+##### OR Related Datasets/Librarys
 * [Prof. J E Beasley](http://people.brunel.ac.uk/~mastjjb/jeb/jeb.html): [OR-Library: A Collection of Test Data Sets For A Variety of Operations Research (OR) Problems](http://people.brunel.ac.uk/~mastjjb/jeb/info.html)<br>
 * [NL4OPT: Natural Language To Optimization Modeling](https://nl4opt.github.io/)
 * [MIPLIB 2017 – The Mixed Integer Programming Library](https://miplib.zib.de/index.html)
