@@ -74,8 +74,8 @@ On this page, Professor Ye shares the story of his sports life and its impact on
 * [Technion SEE Lab For Data On Healthcare And Call Center Operations ](https://seelab.net.technion.ac.il/)
 * [MIMIC-III Clinical Database: Healthcare Datasets](https://physionet.org/content/mimiciii/1.4/)
 ##### Recommendation System Datasets 
-* [Microsoft MIND Data Set For Recommendation Systems](https://msnews.github.io/)
 * [BARS: Dataset/Benchmark Collection For Recommendation Systems](https://openbenchmark.github.io/BARS/index.html)
+* [Microsoft MIND Data Set For Recommendation Systems](https://msnews.github.io/)
 ##### Revenue Management Datasets 
 * [Prof. Huseyin Topaloglu](https://people.orie.cornell.edu/huseyin/index.html): [Datasets Related to Revenue Management](https://people.orie.cornell.edu/huseyin/research/research.html)<br>
 ##### OR Datasets 
