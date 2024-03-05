@@ -78,6 +78,8 @@ On this page, Professor Ye shares the story of his sports life and its impact on
 * [Microsoft MIND Data Set For Recommendation Systems](https://msnews.github.io/)
 ##### Revenue Management Datasets 
 * [Prof. Huseyin Topaloglu](https://people.orie.cornell.edu/huseyin/index.html): [Datasets Related to Revenue Management](https://people.orie.cornell.edu/huseyin/research/research.html)<br>
+##### Supply Chain Management Datasets 
+* [Datahub: Global Garment Supply Chain Datasets](https://old.datahub.io/dataset/global-garment-supply-chain-data)<br>
 ##### OR Related Datasets/Librarys
 * [Prof. J E Beasley](http://people.brunel.ac.uk/~mastjjb/jeb/jeb.html): [OR-Library: A Collection of Test Data Sets For A Variety of Operations Research (OR) Problems](http://people.brunel.ac.uk/~mastjjb/jeb/info.html)<br>
 * [NL4OPT: Natural Language To Optimization Modeling](https://nl4opt.github.io/)
