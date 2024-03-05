@@ -76,6 +76,8 @@ On this page, Professor Ye shares the story of his sports life and its impact on
 ##### Recommendation System Datasets 
 * [BARS: Dataset/Benchmark Collection For Recommendation Systems](https://openbenchmark.github.io/BARS/index.html)
 * [Microsoft MIND Data Set For Recommendation Systems](https://msnews.github.io/)
+* [Github Recommend System Datasets1](https://github.com/caserec/Datasets-for-Recommender-Systems)
+* [Github Recommend System Datasets2](https://github.com/RUCAIBox/RecSysDatasets)
 ##### Revenue Management Datasets 
 * [Prof. Huseyin Topaloglu](https://people.orie.cornell.edu/huseyin/index.html): [Datasets Related to Revenue Management](https://people.orie.cornell.edu/huseyin/research/research.html)<br>
 ##### OR Related Datasets/Librarys
