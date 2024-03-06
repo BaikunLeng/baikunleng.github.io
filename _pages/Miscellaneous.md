@@ -46,7 +46,7 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [Prof. Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/): [What Math Classes Should I Take If I Want To Get An OM or OR PhD](https://twitter.com/cnytoronto/status/1741498747111059763)<br>
 
 #### Books/Materials Which Are Helpful:
-* [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html) and [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
+* [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
