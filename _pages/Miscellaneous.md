@@ -50,6 +50,8 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 Prof. Tim provides a lot of courses in algorithms design, mechanism design.
 * [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html): [OPTbook (In Chinese)](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html), [Databook (In Chinese)](http://faculty.bicmr.pku.edu.cn/~wenzw/databook.html)<br>
 If you're not comfortable when using English materials, then Prof. Wen's Chinese version lecture notes may help you.
+* [Prof. Ramesh Johari](https://web.stanford.edu/~rjohari/): [Lecture Notes](https://web.stanford.edu/~rjohari/teaching/notes.html)<br>
+In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, casual inference), "Game Theory with Engineering Applications" and "Dynamics and Learning in Games". 
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
