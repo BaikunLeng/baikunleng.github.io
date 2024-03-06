@@ -87,6 +87,8 @@ This page is another blog aggregator set up by Prof. Torbjörn Netland. Here, yo
 On this page, Prof. Ye gives a collection of his talks most recently, from 2020 to Now.
 * [Podcast: Owl Explains by Ava Labs](https://www.owlexplains.com/en/)<br>
 A good resource for learning web3 & blockchain. There are lots of excellent professors attend and give their own opinions. 
+* [Blockchain Scholars Podcast](https://www.youtube.com/playlist?list=PLyy_BMKWX3SQfgJ3VhHv7hTbc28lJjl3G)<br>
+
 
 #### Interesting Storys
 * [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
