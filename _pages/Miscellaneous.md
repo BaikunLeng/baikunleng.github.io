@@ -52,7 +52,7 @@ Claim: Original link cannot be accessed now so I copy it with my own link. If th
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [On the Operations Job Market: Reflections and Insights](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf)<br>
 * [Prof. Nikhil Garg](https://gargnikhil.com/): [Operations job market advice: a step-by-step guide](https://gargnikhil.com/files/NikhilGarg_JobMarketAdvice.pdf)<br>
 
-#### Blogs Recommended
+#### Blogs/Podcasts Recommended
 * [Dr. Amira Hijazi](https://amhijazi.com/): [Resources for Graduate Students in OR/MS/ISE](https://amhijazi.com/post/resources/)<br>
 On this page, Dr. Amira Hijazi curates a selection of resources for OR/MS/ISE students, covering optimization knowledge, INFORMS Society guidance, academic website setup, and poster creation.
 * [Prof. Nick Arnosti](https://nickarnosti.com/): [Blogs: A Model World](https://nickarnosti.com/blog/) <br>
@@ -68,7 +68,9 @@ On this page, Professor Qin give some notes and interesting stories about convex
 * [Prof. Torbjörn Netland](https://mtec.ethz.ch/people/person-detail.torbjoernnetland.html): [Better Operations](https://better-operations.com/links/)<br>
 This page is another blog aggregator set up by Prof. Torbjörn Netland. Here, you can find several OR/OM blogs, such as 'Jay and Barry’s OM Blog' created by Barry Render and Jay Heizer, 'Global Supply Chain Blog' created by the faculty at UCLA Anderson School, and others.
 * [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/): [Talks Collection](https://web.stanford.edu/~yyye/talks.html)<br>
-On this page, Prof. Ye gives a collection of his talks most recently, from 2020 to Now. 
+On this page, Prof. Ye gives a collection of his talks most recently, from 2020 to Now.
+* [Podcast: Owl Explains by Ava Labs](https://www.owlexplains.com/en/)<br>
+This is a good resource for learning web3 & blockchain current frontier. There are lots of excellent professors attend and give their own opinions. 
 
 #### Interesting Storys
 * [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
