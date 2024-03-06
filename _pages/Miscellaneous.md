@@ -52,7 +52,7 @@ Prof. Tim provides a lot of courses in algorithms design, mechanism design.
 If you're not comfortable when using English materials, then Prof. Wen's Chinese version lecture notes may help you.
 * [Prof. Ramesh Johari](https://web.stanford.edu/~rjohari/): [Lecture Notes](https://web.stanford.edu/~rjohari/teaching/notes.html)<br>
 In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, casual inference), "Game Theory with Engineering Applications" and "Dynamics and Learning in Games".<br>
-*[Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
+*[Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
 Youtube Shortcourse by SGB! It's very useful for someone who wanna get a step in emprical research.
 
 #### Ph.D. Application & Job Market
