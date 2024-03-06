@@ -43,9 +43,8 @@ Here are some collections of useful open-source resources. Thanks for all the au
 #### What Kind of courses should I take with the aim of pursuing a Ph.D.?
 * [Prof. Anthony Lee Zhang](https://anthonyleezhang.github.io/) & [Dr. Lingxuan Wu](https://www.lingxuanwu.me/): [What Math Classes Should I Take If I Want To Get An Econ or Finance PhD](https://docs.google.com/document/d/11q2NRrzvMnLEQu2Jj_TgDEeYnlXA3fcg/edit) <br>
 So it's an Econ-Fin Track Guidance but I believe it's also helpful for other track sutdents who want to enroll in Business School to be a Ph.D. student, such as OM, IS, Marketing. Meanwhile, it is a claimer that, I found right now the original content of their guidance cannot be accessed and I have save the content before so I copy this content with my own link. If the two owners of this content inquire me to revise/add/delete it, please let me know! 
-* [Prof. Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html): [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)<br>
-* [Prof. John Tsitsiklis](https://www.mit.edu/~jnt/home.html): [A Few Tips On Writing Papers With Mathematical Content](https://www.mit.edu/~jnt/Papers/R-20-write-v5.pdf)<br>
-* [Prof. Graham Cormode](http://dimacs.rutgers.edu/~graham/): [How NOT to review a paper: the tools and techniques of the adversarial reviewer](https://dl.acm.org/doi/10.1145/1519103.1519122)<br>
+* [Prof. Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/): [What Math Classes Should I Take If I Want To Get An Econ or Finance PhDh](https://twitter.com/cnytoronto/status/1741498747111059763)<br>
+
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
