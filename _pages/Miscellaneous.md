@@ -43,7 +43,7 @@ Here are some collections of useful open-source resources. Thanks for all the au
 #### What Kind of courses should I take with the aim of pursuing a Ph.D.?
 * [Prof. Anthony Lee Zhang](https://anthonyleezhang.github.io/) & [Dr. Lingxuan Wu](https://www.lingxuanwu.me/): [What Math Classes Should I Take If I Want To Get An Econ or Finance PhD](https://docs.google.com/document/d/11q2NRrzvMnLEQu2Jj_TgDEeYnlXA3fcg/edit) <br>
 So it's an Econ-Fin Track Guidance but I believe it's also helpful for other track sutdents who want to enroll in Business School to be a Ph.D. student, such as OM, IS, Marketing. Meanwhile, it is a claimer that, I found right now the original content of their guidance cannot be accessed and I have save the content before so I copy this content with my own link. If the two owners of this content inquire me to revise/add/delete it, please let me know! 
-* [Prof. Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/): [What Math Classes Should I Take If I Want To Get An Econ or Finance PhDh](https://twitter.com/cnytoronto/status/1741498747111059763)<br>
+* [Prof. Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/): [What Math Classes Should I Take If I Want To Get An Econ or Finance PhD](https://twitter.com/cnytoronto/status/1741498747111059763)<br>
 
 
 #### Ph.D. Application & Job Market
