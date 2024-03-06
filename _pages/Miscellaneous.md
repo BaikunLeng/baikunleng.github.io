@@ -42,7 +42,7 @@ Here are some collections of useful open-source resources. Thanks for all the au
 
 #### What Kind of courses should I take with the aim of pursuing a Ph.D.?
 * [Prof. Anthony Lee Zhang](https://anthonyleezhang.github.io/) & [Dr. Lingxuan Wu](https://www.lingxuanwu.me/): [What Math Classes Should I Take If I Want To Get An Econ or Finance PhD](https://docs.google.com/document/d/11q2NRrzvMnLEQu2Jj_TgDEeYnlXA3fcg/edit) <br>
-Claim: The original content of their guidance cannot be accessed now so I copy the content with my own link. If the two owners of this content inquire me to operate it, please let me know:)
+Claim: Original link cannot be accessed now so I copy it with my own link. If the authors inquire me to operate it, please let me know:)
 * [Prof. Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/): [What Math Classes Should I Take If I Want To Get An OM or OR PhD](https://twitter.com/cnytoronto/status/1741498747111059763)<br>
 
 
