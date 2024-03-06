@@ -49,7 +49,8 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
 Prof. Tim provides a lot of courses in algorithms design, mechanism design.
 * [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html): [OPTbook (In Chinese)](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html), [Databook (In Chinese)](http://faculty.bicmr.pku.edu.cn/~wenzw/databook.html)<br>
-If you are not comfortable when using English materials, then use this. Prof. Wen provides a lot Chinese Version lecture notes related to optimization.
+If you are not comfortable when using English materials, then Prof. Wen's Chinese version lecture notes related to optimization may help you.
+
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
 * [Prof. Yichuan Ding](https://blogs.ubc.ca/ycding/): [My Experience of Operations Management Faculty Position Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/yichuan-advice.pdf)<br>
