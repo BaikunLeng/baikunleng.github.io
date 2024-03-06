@@ -18,7 +18,7 @@ I'm currently working on (i) Online Learning under Markov Choice Model with Netw
 
 Beyond my academic journey, I also have a year experience of investment analyst at blockchain industry at [Nothing Research](https://www.nothing-research.com/); [Meridian Capital](http://www.meridiancapital.com.cn/en/index.aspx) and half year experience of data anayst at [US Arctic Research Commission](https://www.arctic.gov/) and [Berkeley Haas](https://haas.berkeley.edu/).
 
-[Special thanks](https://docs.google.com/document/d/1OgV9CTCBdbvIVUikvdCwGaxfAh6RPsVJR44k_E-LcNc/edit)
+[Special Thanks](https://docs.google.com/document/d/1OgV9CTCBdbvIVUikvdCwGaxfAh6RPsVJR44k_E-LcNc/edit)
 
 
 **I'm passionately pursuing a Ph.D. in OM/OR for Fall 2024!**
