@@ -61,7 +61,7 @@ Youtube Shortcourse by SGB! It's very useful for someone who wanna get a step in
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
-* [Prof. Anthony Lee Zhang](https://anthonyleezhang.github.io/index.html): [Some Tips About Social And Professional Norms In US Academia For International PhD Students](https://docs.google.com/document/d/1E8rryh-gj1IzsxNT_Sd29-SrzaKFMFIbG7v-e5KkzOs/edit)<br>
+* [Prof. Anthony Lee Zhang](https://anthonyleezhang.github.io/index.html): [Tips About Social & Professional Norms In US Academia For International PhD Students](https://docs.google.com/document/d/1E8rryh-gj1IzsxNT_Sd29-SrzaKFMFIbG7v-e5KkzOs/edit)<br>
 * [Prof. Yichuan Ding](https://blogs.ubc.ca/ycding/): [My Experience of Operations Management Faculty Position Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/yichuan-advice.pdf)<br>
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [On the Operations Job Market: Reflections and Insights](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf)<br>
 * [Prof. Nikhil Garg](https://gargnikhil.com/): [Operations job market advice: a step-by-step guide](https://gargnikhil.com/files/NikhilGarg_JobMarketAdvice.pdf)<br>
