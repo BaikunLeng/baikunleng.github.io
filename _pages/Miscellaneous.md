@@ -41,7 +41,7 @@ Here are some collections of useful open-source resources. Thanks for all the au
 * [Prof. Graham Cormode](http://dimacs.rutgers.edu/~graham/): [How NOT to review a paper: the tools and techniques of the adversarial reviewer](https://dl.acm.org/doi/10.1145/1519103.1519122)<br>
 
 #### What Kind of courses should I take with the aim of pursuing a Ph.D.?
-* [Prof. Anthony Lee Zhang](https://anthonyleezhang.github.io/)[Dr. Lingxuan Wu](https://www.lingxuanwu.me/): [What Math Classes Should I Take If I Want To Get An Econ/Fin PhD](https://docs.google.com/document/d/11q2NRrzvMnLEQu2Jj_TgDEeYnlXA3fcg/edit) <br>
+* [Prof. Anthony Lee Zhang](https://anthonyleezhang.github.io/) [Dr. Lingxuan Wu](https://www.lingxuanwu.me/): [What Math Classes Should I Take If I Want To Get An Econ/Fin PhD](https://docs.google.com/document/d/11q2NRrzvMnLEQu2Jj_TgDEeYnlXA3fcg/edit) <br>
 Claim: Original link cannot be accessed now so I copy it with my own link. If the authors inquire me to operate it, please let me know:)
 * [Prof. Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/): [What Math Classes Should I Take If I Want To Get An OM or OR PhD](https://twitter.com/cnytoronto/status/1741498747111059763)<br>
 
