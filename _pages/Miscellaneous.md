@@ -53,7 +53,11 @@ If you're not comfortable when using English materials, then Prof. Wen's Chinese
 * [Prof. Ramesh Johari](https://web.stanford.edu/~rjohari/): [Lecture Notes](https://web.stanford.edu/~rjohari/teaching/notes.html)<br>
 In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, casual inference), "Game Theory with Engineering Applications" and "Dynamics and Learning in Games".<br>
 * [Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
-Youtube Shortcourse by SGB! It's very useful for someone who wanna get a step in emprical research.
+Youtube Shortcourse by SGB! It's very useful for someone who wanna get a step in emprical research.<br>
+* [Elad Hazan](https://www.ehazan.com/): [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)<br>
+
+
+
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
