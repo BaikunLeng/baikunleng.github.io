@@ -70,7 +70,7 @@ This page is another blog aggregator set up by Prof. Torbjörn Netland. Here, yo
 * [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/): [Talks Collection](https://web.stanford.edu/~yyye/talks.html)<br>
 On this page, Prof. Ye gives a collection of his talks most recently, from 2020 to Now.
 * [Podcast: Owl Explains by Ava Labs](https://www.owlexplains.com/en/)<br>
-This is a good resource for learning web3 & blockchain current frontier. There are lots of excellent professors attend and give their own opinions. 
+A good resource for learning web3 & blockchain. There are lots of excellent professors attend and give their own opinions. 
 
 #### Interesting Storys
 * [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
