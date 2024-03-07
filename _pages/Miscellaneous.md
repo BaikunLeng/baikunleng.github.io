@@ -54,6 +54,7 @@ If you're not comfortable when using English materials, then Prof. Wen's Chinese
 In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, casual inference), "Game Theory with Engineering Applications" and "Dynamics and Learning in Games".<br>
 * [Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
 Youtube Shortcourse by SGB! It's very useful for someone who wanna get a step in emprical research.<br>
+* [CAMS: "Revenue Management & Dynamic Pricing" Sessions](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
 * [Elad Hazan](https://www.ehazan.com/): [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)<br>
 * [Francesco Orabona](https://francesco.orabona.com/): [A Modern Introduction to Online Learning](https://arxiv.org/pdf/1912.13213.pdf)<br>
 * [Cong Shi](https://congshi-research.github.io/research.html), [Stefanus Jasin](https://sites.google.com/view/jasin), [Xi Chen](https://pages.stern.nyu.edu/~xchen3/?_ga=2.129512460.1834096655.1709704335-12329029.1690201733): [The Elements of Joint Learning and Optimization in Operations Management](https://link.springer.com/book/10.1007/978-3-031-01926-5)<br>
@@ -86,8 +87,8 @@ This page is another blog aggregator set up by Prof. Torbjörn Netland. Here, yo
 * [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/): [Talks Collection](https://web.stanford.edu/~yyye/talks.html)<br>
 On this page, Prof. Ye gives a collection of his talks most recently, from 2020 to Now.
 * [Podcast: Owl Explains by Ava Labs](https://www.owlexplains.com/en/)<br>
-A good resource for learning web3 & blockchain. There are lots of excellent professors attend and give their own opinions. 
 * [Blockchain Scholars Podcast](https://www.youtube.com/playlist?list=PLyy_BMKWX3SQfgJ3VhHv7hTbc28lJjl3G)<br>
+
 
 
 #### Interesting Storys
