@@ -60,6 +60,7 @@ Youtube Shortcourse by SGB! It's very useful for someone who wanna get a step in
 * [ACM SIGecom](https://www.youtube.com/@ACMSIGecom)<br>
 * [Elad Hazan](https://www.ehazan.com/): [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)<br>
 * [Francesco Orabona](https://francesco.orabona.com/): [A Modern Introduction to Online Learning](https://arxiv.org/pdf/1912.13213.pdf)<br>
+* [Aranyak Mehta](https://scholar.google.com/citations?user=S39CcbQAAAAJ&hl=en): [Online Matching and Ad Allocation](https://www.cs.cmu.edu/~arielpro/15896s15/docs/paper13b.pdf)<br>
 * [Cong Shi](https://congshi-research.github.io/research.html), [Stefanus Jasin](https://sites.google.com/view/jasin), [Xi Chen](https://pages.stern.nyu.edu/~xchen3/?_ga=2.129512460.1834096655.1709704335-12329029.1690201733): [The Elements of Joint Learning and Optimization in Operations Management](https://link.springer.com/book/10.1007/978-3-031-01926-5)<br>
 
 
