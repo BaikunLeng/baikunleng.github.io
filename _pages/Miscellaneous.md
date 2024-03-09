@@ -68,6 +68,7 @@ In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, 
 ###### Optimization Theory:
 * [Dimitris Bertsimas](https://www.dbertsim.mit.edu/), [John N. Tsitsiklis](http://web.mit.edu/jnt/www/home.html): [Introduction to Linear Optimization](http://athenasc.com/linoptbook.html)<br>
 * [Stephen P. Boyd](https://stanford.edu/~boyd/), [Lieven Vandenberghe](https://www.seas.ucla.edu/~vandenbe/): [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)<br>
+* [Yinyu Ye](http://web.stanford.edu/~yyye/), [David Luenberger](https://profiles.stanford.edu/david-luenberger): [Linear and Nonlinear Programming](https://web.stanford.edu/class/msande310/310trialtext.pdf)<br>
 
 
 #### Ph.D. Application & Job Market
