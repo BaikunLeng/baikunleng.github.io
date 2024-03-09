@@ -60,11 +60,12 @@ If you're not comfortable when using English materials, then Prof. Wen's Chinese
 * [Prof. Ramesh Johari](https://web.stanford.edu/~rjohari/): [Lecture Notes](https://web.stanford.edu/~rjohari/teaching/notes.html)<br>
 In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, casual inference), "Game Theory with Engineering Applications" and "Dynamics and Learning in Games".<br>
 ##### Book Recommendation:
-###### Online Learning:
+###### Online Algorithms and Online Learning:
 * [Elad Hazan](https://www.ehazan.com/): [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)<br>
 * [Francesco Orabona](https://francesco.orabona.com/): [A Modern Introduction to Online Learning](https://arxiv.org/pdf/1912.13213.pdf)<br>
 * [Aranyak Mehta](https://scholar.google.com/citations?user=S39CcbQAAAAJ&hl=en): [Online Matching and Ad Allocation](https://www.cs.cmu.edu/~arielpro/15896s15/docs/paper13b.pdf)<br>
 * [Cong Shi](https://congshi-research.github.io/research.html), [Stefanus Jasin](https://sites.google.com/view/jasin), [Xi Chen](https://pages.stern.nyu.edu/~xchen3/?_ga=2.129512460.1834096655.1709704335-12329029.1690201733): [The Elements of Joint Learning and Optimization in Operations Management](https://link.springer.com/book/10.1007/978-3-031-01926-5)<br>
+###### Online Algorithms and Online Learning:
 
 
 #### Ph.D. Application & Job Market
@@ -77,6 +78,7 @@ In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, 
 
 
 #### Blogs/Podcasts Recommended
+##### Blogs:
 * [Dr. Amira Hijazi](https://amhijazi.com/): [Resources for Graduate Students in OR/MS/ISE](https://amhijazi.com/post/resources/)<br>
 On this page, Dr. Amira Hijazi curates a selection of resources for OR/MS/ISE students, covering optimization knowledge, INFORMS Society guidance, academic website setup, and poster creation.
 * [Prof. Nick Arnosti](https://nickarnosti.com/): [Blogs: A Model World](https://nickarnosti.com/blog/) <br>
@@ -93,6 +95,7 @@ On this page, Professor Qin give some notes and interesting stories about convex
 This page is another blog aggregator set up by Prof. Torbjörn Netland. Here, you can find several OR/OM blogs, such as 'Jay and Barry’s OM Blog' created by Barry Render and Jay Heizer, 'Global Supply Chain Blog' created by the faculty at UCLA Anderson School, and others.
 * [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/): [Talks Collection](https://web.stanford.edu/~yyye/talks.html)<br>
 On this page, Prof. Ye gives a collection of his talks most recently, from 2020 to Now.
+##### Podcasts:
 * [Podcast: Owl Explains by Ava Labs](https://www.owlexplains.com/en/)<br>
 * [Blockchain Scholars Podcast](https://www.youtube.com/playlist?list=PLyy_BMKWX3SQfgJ3VhHv7hTbc28lJjl3G)<br>
 
