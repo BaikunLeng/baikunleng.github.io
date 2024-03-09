@@ -67,7 +67,7 @@ In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, 
 * [Cong Shi](https://congshi-research.github.io/research.html), [Stefanus Jasin](https://sites.google.com/view/jasin), [Xi Chen](https://pages.stern.nyu.edu/~xchen3/?_ga=2.129512460.1834096655.1709704335-12329029.1690201733): [The Elements of Joint Learning and Optimization in Operations Management](https://link.springer.com/book/10.1007/978-3-031-01926-5)<br>
 ###### Optimization Theory:
 * [Dimitris Bertsimas](https://www.dbertsim.mit.edu/), [John N. Tsitsiklis](http://web.mit.edu/jnt/www/home.html): [Introduction to Linear Optimization](http://athenasc.com/linoptbook.html)<br>
-
+* [Stephen P. Boyd](https://stanford.edu/~boyd/), [Lieven Vandenberghe](https://www.seas.ucla.edu/~vandenbe/): [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)<br>
 
 
 #### Ph.D. Application & Job Market
