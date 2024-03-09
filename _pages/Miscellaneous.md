@@ -70,6 +70,10 @@ In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, 
 * [Stephen P. Boyd](https://stanford.edu/~boyd/), [Lieven Vandenberghe](https://www.seas.ucla.edu/~vandenbe/): [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)<br>
 * [Yinyu Ye](http://web.stanford.edu/~yyye/), [David Luenberger](https://profiles.stanford.edu/david-luenberger): [Linear and Nonlinear Programming](https://web.stanford.edu/class/msande310/310trialtext.pdf)<br>
 * [Yurii Nesterov](https://scholar.google.com/citations?user=DJ8Ep8YAAAAJ&hl=zh-CN): [Lectures on Convex Optimization](https://shuyuej.com/books/Lectures%20on%20Convex%20Optimization.pdf)<br>
+* [Jorge Nocedal](https://scholar.google.com.hk/citations?user=gGNxMZ0AAAAJ&hl=zh-CN), [Stephen J. Wright
+](https://pages.cs.wisc.edu/~swright/): [Numerical Optimization](https://www.ime.unicamp.br/~pulino/MT404/TextosOnline/NocedalJ.pdf)<br>
+###### Stochastic Process:
+
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
