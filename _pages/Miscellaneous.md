@@ -80,7 +80,9 @@ In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, 
 * [Warrren B Powell](https://scholar.google.com/citations?user=vDw80QEAAAAJ&hl=zh-CN): [Approximate Dynamic Programming: Solving the Curses of Dimensionality](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)<br>
 * [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html), [John N. Tsitsiklis](http://web.mit.edu/jnt/www/home.html): [Neuro-Dynamic Programming](http://athenasc.com/ndpbook.html)<br>
 * [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html): [Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)<br>
-
+###### Others:
+* [Economics][G. S. Maddala](https://en.wikipedia.org/wiki/G._S._Maddala), [Kajal Lahiri](https://www.albany.edu/~klahiri/): [Introduction to Econometrics](https://jigjids.files.wordpress.com/2011/05/introduction-to-econometric-2nd.pdf)<br>
+* [Inventory Management][Jing-Sheng Jeannette Song](https://people.duke.edu/~jssong/publications.html): [Research Handbook on Inventory Management](https://www.e-elgar.com/shop/usd/research-handbook-on-inventory-management-9781800377097.html)<br>
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
