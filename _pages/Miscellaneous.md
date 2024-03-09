@@ -65,7 +65,9 @@ In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, 
 * [Francesco Orabona](https://francesco.orabona.com/): [A Modern Introduction to Online Learning](https://arxiv.org/pdf/1912.13213.pdf)<br>
 * [Aranyak Mehta](https://scholar.google.com/citations?user=S39CcbQAAAAJ&hl=en): [Online Matching and Ad Allocation](https://www.cs.cmu.edu/~arielpro/15896s15/docs/paper13b.pdf)<br>
 * [Cong Shi](https://congshi-research.github.io/research.html), [Stefanus Jasin](https://sites.google.com/view/jasin), [Xi Chen](https://pages.stern.nyu.edu/~xchen3/?_ga=2.129512460.1834096655.1709704335-12329029.1690201733): [The Elements of Joint Learning and Optimization in Operations Management](https://link.springer.com/book/10.1007/978-3-031-01926-5)<br>
-###### Online Algorithms and Online Learning:
+###### Optimization Theory:
+* [Dimitris Bertsimas](https://www.dbertsim.mit.edu/), [John N. Tsitsiklis](http://web.mit.edu/jnt/www/home.html): [Introduction to Linear Optimization](http://athenasc.com/linoptbook.html)<br>
+
 
 
 #### Ph.D. Application & Job Market
