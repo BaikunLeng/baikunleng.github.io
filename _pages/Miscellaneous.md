@@ -75,6 +75,7 @@ In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, 
 ###### Stochastic Process:
 * [Sheldon Mark Ross](https://viterbi.usc.edu/directory/faculty/Ross/Sheldon): [Introduction to Probability Models](https://www.sciencedirect.com/book/9780124079489/introduction-to-probability-models)<br>
 * [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html), [John N. Tsitsiklis](http://web.mit.edu/jnt/www/home.html): [Introduction to Probability](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf)<br>
+* [Tor Lattimore](https://tor-lattimore.com/), [Csaba Szepesv´ari](https://sites.ualberta.ca/~szepesva/): [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf)<br>
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
