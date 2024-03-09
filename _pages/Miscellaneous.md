@@ -83,6 +83,7 @@ In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, 
 ###### Others:
 * [Economics][G. S. Maddala](https://en.wikipedia.org/wiki/G._S._Maddala), [Kajal Lahiri](https://www.albany.edu/~klahiri/): [Introduction to Econometrics](https://jigjids.files.wordpress.com/2011/05/introduction-to-econometric-2nd.pdf)<br>
 * [Inventory Management][Jing-Sheng Jeannette Song](https://people.duke.edu/~jssong/publications.html): [Research Handbook on Inventory Management](https://www.e-elgar.com/shop/usd/research-handbook-on-inventory-management-9781800377097.html)<br>
+* [Revenue Management][Guillermo Gallego](https://scholar.google.com/citations?user=FK7w8QIAAAAJ&hl=zh-CN), [Huseyin Topaloglu](https://people.orie.cornell.edu/huseyin/): [Revenue Management and Pricing Analytics](https://link.springer.com/book/10.1007/978-1-4939-9606-3)<br>
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
