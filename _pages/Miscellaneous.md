@@ -46,18 +46,21 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [Prof. Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/): [What Math Classes Should I Take If I Want To Get An OM or OR PhD](https://twitter.com/cnytoronto/status/1741498747111059763)<br>
 
 #### Books/Materials Which Are Helpful:
+##### Youtube Videos:
+* [Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
+* [CAMS: "Revenue Management & Dynamic Pricing" Sessions](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
+* [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
+* [INFORMS Revenue Management and Pricing Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
+* [ACM SIGecom](https://www.youtube.com/@ACMSIGecom)<br>
+##### Professor's Lectures:
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
 Prof. Tim provides a lot of courses in algorithms design, mechanism design.
 * [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html): [OPTbook (In Chinese)](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html), [Databook (In Chinese)](http://faculty.bicmr.pku.edu.cn/~wenzw/databook.html)<br>
 If you're not comfortable when using English materials, then Prof. Wen's Chinese version lecture notes may help you.
 * [Prof. Ramesh Johari](https://web.stanford.edu/~rjohari/): [Lecture Notes](https://web.stanford.edu/~rjohari/teaching/notes.html)<br>
 In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, casual inference), "Game Theory with Engineering Applications" and "Dynamics and Learning in Games".<br>
-* [Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
-Youtube Shortcourse by SGB! It's very useful for someone who wanna get a step in emprical research.<br>
-* [CAMS: "Revenue Management & Dynamic Pricing" Sessions](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
-* [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
-* [INFORMS Revenue Management and Pricing Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
-* [ACM SIGecom](https://www.youtube.com/@ACMSIGecom)<br>
+##### Book Recommendation:
+###### Online Learning:
 * [Elad Hazan](https://www.ehazan.com/): [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)<br>
 * [Francesco Orabona](https://francesco.orabona.com/): [A Modern Introduction to Online Learning](https://arxiv.org/pdf/1912.13213.pdf)<br>
 * [Aranyak Mehta](https://scholar.google.com/citations?user=S39CcbQAAAAJ&hl=en): [Online Matching and Ad Allocation](https://www.cs.cmu.edu/~arielpro/15896s15/docs/paper13b.pdf)<br>
