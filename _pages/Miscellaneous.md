@@ -87,7 +87,7 @@ In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, 
 * [Revenue Management] [Kalyan Talluri](https://www.imperial.ac.uk/people/kalyan.talluri), [Garrett van Ryzin](https://business.columbia.edu/faculty/people/garrett-van-ryzin): [The Theory and Practice of Revenue Management](https://link.springer.com/book/10.1007/b139000)<br>
 * [Financial Engineering] [John C. Hull](https://www-2.rotman.utoronto.ca/~hull/): [OPTIONS, FUTURES,
 AND OTHER DERIVATIVES](https://faculty.ksu.edu.sa/sites/default/files/options_futures_and_other_derivatives_8th_ed_part1.pdf)<br>
-* [Statistics] [Trevor J. Hastie](https://statistics.stanford.edu/people/trevor-j-hastie), [Robert Tibshirani](https://statistics.stanford.edu/people/robert-tibshirani), [Jerome H. Friedman](https://statistics.stanford.edu/people/jerome-h-friedman): [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/Papers/ESLII.pdf)<br>
+* [Statistics] [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/Papers/ESLII.pdf)<br>
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
