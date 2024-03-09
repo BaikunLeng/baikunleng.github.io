@@ -76,6 +76,11 @@ In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, 
 * [Sheldon Mark Ross](https://viterbi.usc.edu/directory/faculty/Ross/Sheldon): [Introduction to Probability Models](https://www.sciencedirect.com/book/9780124079489/introduction-to-probability-models)<br>
 * [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html), [John N. Tsitsiklis](http://web.mit.edu/jnt/www/home.html): [Introduction to Probability](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf)<br>
 * [Tor Lattimore](https://tor-lattimore.com/), [Csaba Szepesv´ari](https://sites.ualberta.ca/~szepesva/): [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf)<br>
+###### Dynamic Programming:
+* [Warrren B Powell](https://scholar.google.com/citations?user=vDw80QEAAAAJ&hl=zh-CN): [Approximate Dynamic Programming: Solving the Curses of Dimensionality](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)<br>
+* [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html), [John N. Tsitsiklis](http://web.mit.edu/jnt/www/home.html): [Neuro-Dynamic Programming](http://athenasc.com/ndpbook.html)<br>
+* [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html): [Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)<br>
+
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
