@@ -39,6 +39,7 @@ Here are some collections of useful open-source resources. Thanks for all the au
 * [Prof. Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html): [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)<br>
 * [Prof. John Tsitsiklis](https://www.mit.edu/~jnt/home.html): [A Few Tips On Writing Papers With Mathematical Content](https://www.mit.edu/~jnt/Papers/R-20-write-v5.pdf)<br>
 * [Prof. Graham Cormode](http://dimacs.rutgers.edu/~graham/): [How NOT to review a paper: the tools and techniques of the adversarial reviewer](https://dl.acm.org/doi/10.1145/1519103.1519122)<br>
+* [Prof. Brady Neal](https://www.bradyneal.com/aboutme): [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)<br>
 
 #### What Kind of courses should I take with the aim of pursuing a Ph.D.?
 * [Prof. Anthony Lee Zhang](https://anthonyleezhang.github.io/) [Dr. Lingxuan Wu](https://www.lingxuanwu.me/): [What Math Classes Should I Take If I Want To Get An Econ/Fin PhD](https://docs.google.com/document/d/11q2NRrzvMnLEQu2Jj_TgDEeYnlXA3fcg/edit) <br>
