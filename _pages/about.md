@@ -20,7 +20,7 @@ Beyond my academic journey, I also have a year experience of investment analyst 
 
 [Special Thanks](https://docs.google.com/document/d/1OgV9CTCBdbvIVUikvdCwGaxfAh6RPsVJR44k_E-LcNc/edit)<br>
 
-[Ph.D. Application Handbook(In Chinese)](https://drive.google.com/file/d/1RF0mcGvfjqQJ6jKxQSdKGBON6v0lgKkH/view?usp=sharing) 
+[Ph.D. Application Handbook(In Chinese)](https://drive.google.com/file/d/1RF0mcGvfjqQJ6jKxQSdKGBON6v0lgKkH/view?usp=sharing)<br> 
 This work, I got insights from lots of people, [Haixiang Lan](https://ieor.columbia.edu/content/haixiang-lan), Prof. [Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/), [Wanrong He](https://www.linkedin.com/in/wanrong-he/), [Lijin Zhang](https://lijinzhang.com/) and so on.
 
 **I'm passionately pursuing a Ph.D. in OM/OR for Fall 2024!**
