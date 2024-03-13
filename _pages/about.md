@@ -23,7 +23,7 @@ Beyond my academic journey, I also have a year experience of investment analyst 
 [Ph.D. Application Handbook(In Chinese)](https://drive.google.com/file/d/1RF0mcGvfjqQJ6jKxQSdKGBON6v0lgKkH/view?usp=sharing)<br> 
 This work, I got insights from lots of people, [Haixiang Lan](https://ieor.columbia.edu/content/haixiang-lan), Prof. [Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/), [Wanrong He](https://www.linkedin.com/in/wanrong-he/), [Lijin Zhang](https://lijinzhang.com/) and so on.
 
-**I'm passionately pursuing a Ph.D. in OM/OR for Fall 2024!**
+**I will join UW Seattle Foster ISOM department as a new Ph.D. student start from Fall 2024!**
 
 [Email me](mailto:leonleng0730@gmail.com): leonleng0730@gmail.com
 
