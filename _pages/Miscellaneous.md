@@ -54,6 +54,7 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
 * [INFORMS Revenue Management and Pricing Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
 * [ACM SIGecom](https://www.youtube.com/@ACMSIGecom)<br>
+*[MIT Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
 ##### Professor's Lectures:
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
 Prof. Tim provides a lot of courses in algorithms design, mechanism design.
