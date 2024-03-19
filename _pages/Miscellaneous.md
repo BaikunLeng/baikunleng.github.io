@@ -62,7 +62,7 @@ Prof. Tim provides a lot of courses in algorithms design, mechanism design.
 If you're not comfortable when using English materials, then Prof. Wen's Chinese version lecture notes may help you.
 * [Prof. Ramesh Johari](https://web.stanford.edu/~rjohari/): [Lecture Notes](https://web.stanford.edu/~rjohari/teaching/notes.html)<br>
 In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, casual inference), "Game Theory with Engineering Applications" and "Dynamics and Learning in Games".<br>
-* [Prof. Peng Ding](https://sites.google.com/site/pengdingpku/home?authuser=0): [Casual Inference Resources] (https://sites.google.com/site/pengdingpku/resources?authuser=0)<br>
+* [Prof. Peng Ding](https://sites.google.com/site/pengdingpku/home?authuser=0): [Casual Inference Resources](https://sites.google.com/site/pengdingpku/resources?authuser=0)<br>
 In this page, Prof. Peng Ding shares lots of resources related to casual inferences including youtube courses, course materials and so on.<br>
 
 ##### Book Recommendation:
