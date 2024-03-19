@@ -47,6 +47,7 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [Prof. Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/): [What Math Classes Should I Take If I Want To Get An OM or OR PhD](https://twitter.com/cnytoronto/status/1741498747111059763)<br>
 
 #### Books/Materials Which Are Helpful:
+
 ##### Youtube Videos:
 * [Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
 * [CAMS: "Revenue Management & Dynamic Pricing" Sessions](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
