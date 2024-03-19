@@ -33,6 +33,7 @@ Here are some collections of useful open-source resources. Thanks for all the au
 #### What's OR/OM?
 * [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/): [FAQ for studying Operations Research](https://mypage.cuhk.edu.cn/academics/wangzizhuo/ORFAQ.html) <br>
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Video Introduction to Operation Research and Analytics](https://www.youtube.com/watch?v=5adE_cxtSbY)<br>
+* [INFORMS-Student-Union](https://www.informs.org/Resource-Center/INFORMS-Student-Union/): [FAQs About O.R. & Analytics ](https://www.informs.org/Resource-Center/INFORMS-Student-Union/FAQs-About-O.R.-Analytics)<br>
 
 #### How to do research?
 * [Prof. Andrey Fradkin](https://andreyfradkin.com/): [A Guide To Using Corporate Data for Academic Research](https://andreyfradkin.com/posts/2014/02/08/how-to-obtain-proprietary-datasets-for-research-part-1) <br>
