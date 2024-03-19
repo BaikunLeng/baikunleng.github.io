@@ -94,6 +94,7 @@ In this page, Prof. Peng Ding shares lots of resources related to casual inferen
 * [John C. Hull](https://www-2.rotman.utoronto.ca/~hull/): [OPTIONS, FUTURES,
 AND OTHER DERIVATIVES](https://faculty.ksu.edu.sa/sites/default/files/options_futures_and_other_derivatives_8th_ed_part1.pdf)<br>
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/Papers/ESLII.pdf)<br>
+* [Giuseppe Paleologo](https://www.linkedin.com/in/gappy/): [Buy-Side Quant Job Advice](https://drive.google.com/file/d/1otua7EOUn-ImOc6X3MZyZV1yzJPHdOkK/view?usp=sharing)<br>
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
