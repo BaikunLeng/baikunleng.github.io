@@ -20,8 +20,8 @@ Beyond my academic journey, I also have a year experience of investment analyst 
 
 [Special Thanks](https://docs.google.com/document/d/1OgV9CTCBdbvIVUikvdCwGaxfAh6RPsVJR44k_E-LcNc/edit)<br>
 
-[Ph.D. Application Handbook(In Chinese)](https://drive.google.com/file/d/1RF0mcGvfjqQJ6jKxQSdKGBON6v0lgKkH/view?usp=sharing)<br> 
-This work, I got insights from lots of people, [Haixiang Lan](https://ieor.columbia.edu/content/haixiang-lan), Prof. [Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/), [Wanrong He](https://www.linkedin.com/in/wanrong-he/), [Lijin Zhang](https://lijinzhang.com/) and so on.
+[Ph.D. Application Handbook(In Chinese)](https://drive.google.com/file/d/1py-Qv8XqDn7p39j0yEmq6KlLL1pb9pca/view?usp=sharing)(Available Upon Request)<br> 
+[Ph.D. Interview Experience Sharing(In Chinese)](https://drive.google.com/file/d/1NToMYocsiCnHLKb-NfZVxniUEyoV-uUz/view?usp=sharing)(Available Upon Request)<br> 
 
 **I will join UW Seattle Foster ISOM department as a new Ph.D. student start from Fall 2024!**
 
