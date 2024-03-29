@@ -12,7 +12,7 @@ Work in Progress
 Supervisor(s): [Prof. Rowena Gan](https://www.smu.edu/cox/Our-People-and-Community/Faculty/Rowena-J-Gan)
 
 * Network Revenue Management under Markovian Demand Effect<br> 
-Supervisor(s): [Prof. Gallego Guillermo](https://scholar.google.com/citations?user=FK7w8QIAAAAJ&hl=zh-CN) & [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/) & [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/)
+Supervisor(s): [Haixiang Lan](https://ieor.columbia.edu/content/haixiang-lan)[Prof. Gallego Guillermo](https://scholar.google.com/citations?user=FK7w8QIAAAAJ&hl=zh-CN) & [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/) & [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/)
 
 Research Experience
 =====
