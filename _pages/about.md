@@ -14,9 +14,6 @@ Welcome! My name is Baikun (Leon) Leng. I'm a senior undergraduate in the [Schoo
 
 I am passionate about exploring a wide array of research directions and emerging topics during my undergraduates period. Throughout my undergraduate studies, my primary research interests have been in Operations Interface and Market Design. I aim to address operational challenges that arise in business and society.
 
-I'm currently working on (i) Network Revenue Management under Markovian Demand supervised by [Haixiang Lan](https://ieor.columbia.edu/content/haixiang-lan), [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/), [Prof. Guillermo Gallego](https://scholar.google.com/citations?user=FK7w8QIAAAAJ&hl=zh-CN) and [Prof.Yinyu Ye](https://web.stanford.edu/~yyye/), and (ii) Fairness in Blockchain Adoption Insurance with [Prof. Rowena Gan](https://www.smu.edu/cox/Our-People-and-Community/Faculty/Rowena-J-Gan). 
-
-
 [Special Thanks](https://docs.google.com/document/d/1OgV9CTCBdbvIVUikvdCwGaxfAh6RPsVJR44k_E-LcNc/edit)<br>
 
 **I will join UW Seattle Foster ISOM department as a new Ph.D. student start from Fall 2024!**
