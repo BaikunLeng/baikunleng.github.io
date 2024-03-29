@@ -117,7 +117,7 @@ On this page, Prof. Christian collected a list of books that he recommended for 
 On this page, Prof. Alvin posted Market Design related papers and news. He also set up a page called "Game theory, experimental economics, and market design", you may find another page through his personal website.
 * [Prof. Xiao Lei](http://xiao-lei.org/): [Blogs: Operation Research in Daily Life (in Chinese)](https://www.zhihu.com/column/shzdycx)<br>
 On this page, Professor Xiao presents many interesting topics and insights on how Operations Research and Operations Management (OR/OM) are applicable in our daily lives. It's very intriguing, but all the content is in Chinese.
-* [Prof. Hanzhang Qin](https://cde.nus.edu.sg/isem/staff/qin-hanzhang/): [Blogs: Optimizers' Garden (in Chinese)](https://www.zhihu.com/column/shzdycx)<br>
+* [Prof. Hanzhang Qin](https://cde.nus.edu.sg/isem/staff/qin-hanzhang/): [Blogs: Optimizers' Garden (in Chinese)](https://www.zhihu.com/column/c_168521441)<br>
 On this page, Professor Qin give some notes and interesting stories about convex optmization, numerical mehtods, online learning knowledge and so on. Prof. Qin is really good at writing these things! But all the content is in Chinese.
 * [Prof. Torbjörn Netland](https://mtec.ethz.ch/people/person-detail.torbjoernnetland.html): [Better Operations](https://better-operations.com/links/)<br>
 This page is another blog aggregator set up by Prof. Torbjörn Netland. Here, you can find several OR/OM blogs, such as 'Jay and Barry’s OM Blog' created by Barry Render and Jay Heizer, 'Global Supply Chain Blog' created by the faculty at UCLA Anderson School, and others.
