@@ -64,6 +64,7 @@ If you're not comfortable when using English materials, then Prof. Wen's Chinese
 In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, casual inference), "Game Theory with Engineering Applications" and "Dynamics and Learning in Games".<br>
 * [Prof. Peng Ding](https://sites.google.com/site/pengdingpku/home?authuser=0): [Casual Inference Resources](https://sites.google.com/site/pengdingpku/resources?authuser=0)<br>
 In this page, Prof. Peng Ding shares lots of resources related to casual inferences including youtube courses, course materials and so on.<br>
+* [Prof. Fan Li](https://www2.stat.duke.edu/~fl35/): [STA640 Casual Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html)<br>
 
 ##### Book Recommendation:
 ###### Online Algorithms and Online Learning:
