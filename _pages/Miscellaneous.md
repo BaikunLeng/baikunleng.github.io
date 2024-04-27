@@ -66,7 +66,7 @@ In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, 
 In this page, Prof. Peng Ding shares lots of resources related to casual inferences including youtube courses, course materials and so on.<br>
 * [Prof. Fan Li](https://www2.stat.duke.edu/~fl35/): [STA640 Casual Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html)<br>
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Artificial Intelligence for Business Research](https://github.com/rphilipzhang/AI-PhD-S24)<br>
-This aims to cultivate a foundational grasp of ML/AI principles relevant to business research, exploring their recent applications in addressing managerial issues and fostering an appreciation for the potential impacts of cutting-edge AI/ML innovations in one's research area.<br>
+This aims to cultivate a foundational grasp of ML/AI principles relevant to business research, exploring their recent applications in addressing managerial issues and fostering an appreciation for the potential impacts of cutting-edge AI/ML innovations.<br>
 
 ##### Book Recommendation:
 ###### Online Algorithms and Online Learning:
