@@ -16,7 +16,6 @@ I am passionate about exploring a wide array of research directions and emerging
 
 [Special Thanks](https://docs.google.com/document/d/1OgV9CTCBdbvIVUikvdCwGaxfAh6RPsVJR44k_E-LcNc/edit)<br>
 
-**I will join UW Seattle Foster ISOM department as a new Ph.D. student start from Fall 2024!**
 
 [Email me](mailto:leonleng0730@gmail.com): leonleng0730@gmail.com
 
