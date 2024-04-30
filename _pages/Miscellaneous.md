@@ -50,6 +50,7 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 #### Books/Materials Which Are Helpful:
 ##### Videos:
 ###### Conferences & Society Talks & Department Colloquium:
+* [Online Causal Inference Seminar](https://www.youtube.com/@onlinecausalinferencesemin2364)<br>
 * [Stochastic Programming Society](https://www.youtube.com/@stochasticprogrammingsocie3357)<br>
 * [Discrete Optimization Talks](https://www.youtube.com/c/DiscreteOptimizationTalks)<br>
 * [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
@@ -58,13 +59,18 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [INFORMS RMP Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
 * [POM Society](https://www.youtube.com/@POMSociety1/streams)<br>
 
-###### University Learning Resources:
-####### AI:
 
 
+###### :
 * [Stanford: Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
+
+
+
 * [MIT: Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
+
 * [UCL & Goodle DeepMind: RL & DL Theory](https://www.youtube.com/@mitide)<br>
+
+
 
 
 ##### Professor's Lectures:
