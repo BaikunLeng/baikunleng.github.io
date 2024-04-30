@@ -47,7 +47,6 @@ Here are some collections of useful open-source resources. Thanks for all the au
 Claim: Original their link cannot be accessed so I use mine. If the authors inquire me to operate it, please let me know:)
 * [Prof. Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/): [What Math Classes Should I Take If I Want To Get An OM or OR PhD](https://twitter.com/cnytoronto/status/1741498747111059763)<br>
 
-#### Books/Materials Which Are Helpful:
 ##### Videos:
 ###### Conferences & Society Talks & Department Colloquium:
 * [Online Causal Inference Seminar](https://www.youtube.com/@onlinecausalinferencesemin2364)<br>
@@ -60,6 +59,7 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * ["RMP" Sessions: CAMs](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
 * [INFORMS RMP Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
 * [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
+* [Yale SOM Operation Management Seminar](https://som.yale.edu/programs/phd/overview/operations/seminar-series)<br>
 * [MIT: Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
 ###### University Resources:
 * [Stanford Online](https://www.youtube.com/@stanfordonline)<br>
@@ -82,6 +82,8 @@ In this page, Prof. Peng Ding shares lots of resources related to casual inferen
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Artificial Intelligence for Business Research](https://github.com/rphilipzhang/AI-PhD-S24)<br>
 This aims to cultivate a foundational grasp of ML/AI principles relevant to business research, exploring their recent applications in addressing managerial issues and fostering an appreciation for the potential impacts of cutting-edge AI/ML innovations.<br>
 * [Prof. Alexander Amini](https://www.mit.edu/~amini/): [MIT 6. S191: Deep Learning](https://www.youtube.com/@AAmini)<br>
+* [Prof. Bolei Zhou](https://boleizhou.github.io/): [Intro to Reinforcement Learning (in Chinese)](https://github.com/zhoubolei/introRL)<br>
+This short RL course introduces the basic knowledge of reinforcement learning. Slides are made in English and lectures are given in Mandarin. 
 
 ##### Book Recommendation:
 ###### Online Algorithms and Online Learning:
