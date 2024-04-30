@@ -62,10 +62,11 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
 ###### University Resources:
 * [Stanford Online](https://www.youtube.com/@stanfordonline)<br> It includes all the stanford online resources that can be accessed. Such as some CS courses.
+* [Stanford: Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
 * [MIT OpenCourseWare](https://www.youtube.com/@mitocw/featured)<br> Similar as Stanford online, MIT also published some open courses resources.
 * [MIT: Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
 * [UCL & Goodle DeepMind: RL & DL Theory](https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5)<br>
-* [Stanford: Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
+
 ##### Professor's Lectures:
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
 Prof. Tim provides a lot of courses in algorithms design, mechanism design.
