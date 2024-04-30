@@ -60,11 +60,11 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * ["RMP" Sessions: CAMs](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
 * [INFORMS RMP Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
 * [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
+* [MIT: Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
 ###### University Resources:
 * [Stanford Online](https://www.youtube.com/@stanfordonline)<br> It includes all the stanford online resources that can be accessed. Such as some CS courses.
 * [Stanford: Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
 * [MIT OpenCourseWare](https://www.youtube.com/@mitocw/featured)<br> Similar as Stanford online, MIT also published some open courses resources.
-* [MIT: Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
 * [UCL & Goodle DeepMind: RL & DL Theory](https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5)<br>
 
 ##### Professor's Lectures:
