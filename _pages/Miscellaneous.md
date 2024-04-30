@@ -60,12 +60,11 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * ["RMP" Sessions: CAMs](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
 * [INFORMS RMP Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
 * [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
-
-
-
-
-###### :
+###### University Resources:
 * [Stanford: Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
+* [Stanford Online](https://www.youtube.com/@stanfordonline)<br>
+* [MIT OpenCourseWare](https://www.youtube.com/@mitocw/featured)<br>
+
 
 
 
