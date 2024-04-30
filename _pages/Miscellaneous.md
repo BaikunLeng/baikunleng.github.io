@@ -52,12 +52,15 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 ###### Conferences & Society Talks & Department Colloquium:
 * [Online Causal Inference Seminar](https://www.youtube.com/@onlinecausalinferencesemin2364)<br>
 * [Stochastic Programming Society](https://www.youtube.com/@stochasticprogrammingsocie3357)<br>
+* [SNAPP Seminar: Stochastic Networks, Applied Probability, and Performance](https://www.youtube.com/@snappseminar8557)<br>
+* [2022 Management of Service Systems](https://www.youtube.com/@networksthenetworkpages1865)<br>
 * [Discrete Optimization Talks](https://www.youtube.com/c/DiscreteOptimizationTalks)<br>
-* [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
 * [EC Conferences: ACM SIGecom](https://www.youtube.com/@ACMSIGecom)<br>
+* [POM Society](https://www.youtube.com/@POMSociety1/streams)<br>
 * ["RMP" Sessions: CAMs](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
 * [INFORMS RMP Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
-* [POM Society](https://www.youtube.com/@POMSociety1/streams)<br>
+* [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
+
 
 
 
