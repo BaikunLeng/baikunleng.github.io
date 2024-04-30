@@ -69,7 +69,7 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [MIT OpenCourseWare](https://www.youtube.com/@mitocw/featured)<br> Similar as Stanford online, MIT also published some open courses resources.
 * [UCL & Goodle DeepMind: RL & DL Theory](https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5)<br>
 * [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/)<br>
-  The DeepLearning.AI give lots of short courses related to GenAI, LLM, RL&DL, GPT Prompt Engineering. 
+  The DeepLearning.AI give lots of short courses related to GenAI, LLM, RL&DL, GPT Prompt Engineering, taught by Andrew Ng and others.
 
 ##### Professor's Lectures:
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
