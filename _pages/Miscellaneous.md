@@ -59,6 +59,9 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [POM Society](https://www.youtube.com/@POMSociety1/streams)<br>
 
 ###### University Learning Resources:
+####### AI:
+
+
 * [Stanford: Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
 * [MIT: Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
 * [UCL & Goodle DeepMind: RL & DL Theory](https://www.youtube.com/@mitide)<br>
