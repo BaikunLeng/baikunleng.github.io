@@ -65,11 +65,7 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [MIT OpenCourseWare](https://www.youtube.com/@mitocw/featured)<br> Similar as Stanford online, MIT also published some open courses resources.
 * [MIT: Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
 * [UCL & Goodle DeepMind: RL & DL Theory](https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5)<br>
-
-
-
 * [Stanford: Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
-
 ##### Professor's Lectures:
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
 Prof. Tim provides a lot of courses in algorithms design, mechanism design.
@@ -82,6 +78,7 @@ In this page, Prof. Peng Ding shares lots of resources related to casual inferen
 * [Prof. Fan Li](https://www2.stat.duke.edu/~fl35/): [STA640 Casual Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html)<br>
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Artificial Intelligence for Business Research](https://github.com/rphilipzhang/AI-PhD-S24)<br>
 This aims to cultivate a foundational grasp of ML/AI principles relevant to business research, exploring their recent applications in addressing managerial issues and fostering an appreciation for the potential impacts of cutting-edge AI/ML innovations.<br>
+* [Prof. Alexander Amini](https://www.mit.edu/~amini/): [MIT 6. S191: Deep Learning](https://www.youtube.com/@AAmini)<br>
 
 ##### Book Recommendation:
 ###### Online Algorithms and Online Learning:
