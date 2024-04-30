@@ -49,21 +49,20 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 
 #### Books/Materials Which Are Helpful:
 ##### Videos:
-###### Conferences And Society Talks:
-* [EC Conferences: ACM SIGecom](https://www.youtube.com/@ACMSIGecom)<br>
-* ["Revenue Management & Dynamic Pricing" Sessions: CAMs](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
-* [INFORMS Revenue Management and Pricing Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
-* [POM Society](https://www.youtube.com/@POMSociety1/streams)<br>
-* [Discrete Optimization Talks](https://www.youtube.com/c/DiscreteOptimizationTalks)<br>
+###### Conferences & Society Talks & Department Colloquium:
 * [Stochastic Programming Society](https://www.youtube.com/@stochasticprogrammingsocie3357)<br>
-
-
-* [Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
-
+* [Discrete Optimization Talks](https://www.youtube.com/c/DiscreteOptimizationTalks)<br>
 * [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
+* [EC Conferences: ACM SIGecom](https://www.youtube.com/@ACMSIGecom)<br>
+* ["RMP" Sessions: CAMs](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
+* [INFORMS RMP Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
+* [POM Society](https://www.youtube.com/@POMSociety1/streams)<br>
 
+###### University Learning Resources:
+* [Stanford: Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
+* [MIT: Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
+* [UCL & Goodle DeepMind: RL & DL Theory](https://www.youtube.com/@mitide)<br>
 
-* [MIT Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
 
 ##### Professor's Lectures:
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
