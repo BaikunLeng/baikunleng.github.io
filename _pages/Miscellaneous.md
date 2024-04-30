@@ -48,13 +48,23 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [Prof. Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/): [What Math Classes Should I Take If I Want To Get An OM or OR PhD](https://twitter.com/cnytoronto/status/1741498747111059763)<br>
 
 #### Books/Materials Which Are Helpful:
-##### Youtube Videos:
-* [Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
-* [CAMS: "Revenue Management & Dynamic Pricing" Sessions](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
-* [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
+##### Videos:
+###### Conferences And Society Talks:
+* [EC Conferences: ACM SIGecom](https://www.youtube.com/@ACMSIGecom)<br>
+* ["Revenue Management & Dynamic Pricing" Sessions: CAMs](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
 * [INFORMS Revenue Management and Pricing Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
-* [ACM SIGecom](https://www.youtube.com/@ACMSIGecom)<br>
+* [POM Society](https://www.youtube.com/@POMSociety1/streams)<br>
+* [Discrete Optimization Talks](https://www.youtube.com/c/DiscreteOptimizationTalks)<br>
+* [Stochastic Programming Society](https://www.youtube.com/@stochasticprogrammingsocie3357)<br>
+
+
+* [Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
+
+* [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
+
+
 * [MIT Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
+
 ##### Professor's Lectures:
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
 Prof. Tim provides a lot of courses in algorithms design, mechanism design.
