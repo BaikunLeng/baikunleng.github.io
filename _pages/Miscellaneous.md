@@ -64,13 +64,8 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [Stanford: Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
 * [Stanford Online](https://www.youtube.com/@stanfordonline)<br>
 * [MIT OpenCourseWare](https://www.youtube.com/@mitocw/featured)<br>
-
-
-
-
 * [MIT: Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
-
-* [UCL & Goodle DeepMind: RL & DL Theory](https://www.youtube.com/@mitide)<br>
+* [UCL & Goodle DeepMind: RL & DL Theory](https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5)<br>
 
 
 
