@@ -59,6 +59,7 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * ["RMP" Sessions: CAMs](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
 * [INFORMS RMP Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
 * [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
+* [Berkeley Simons Institute](https://www.youtube.com/@SimonsInstituteTOC)<br>
 * [Yale SOM Operation Management Seminar](https://som.yale.edu/programs/phd/overview/operations/seminar-series)<br>
 * [MIT: Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
 ###### University Resources:
@@ -91,6 +92,7 @@ This RL course introduces the basic knowledge of reinforcement learning. Slides 
 * [Prof. Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php): [Generative AI](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)<br>
   Prof. Hung-Yi Lee provides lots of excellent courses on his personal website including generative AI & ML & MLDS and so on.
 
+
 ##### Book Recommendation:
 ###### Online Algorithms and Online Learning:
 * [Elad Hazan](https://www.ehazan.com/): [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)<br>
@@ -114,6 +116,8 @@ This RL course introduces the basic knowledge of reinforcement learning. Slides 
 * [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html): [Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)<br>
 ###### Statistics:
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/Papers/ESLII.pdf)<br>
+* [Martin J. Wainwright](https://wainwrigwork.github.io/): [High-Dimensional Statistics
+A Non-Asymptotic Viewpoint](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E)<br>
 
 ###### Finance & Economics:
 * [G. S. Maddala](https://en.wikipedia.org/wiki/G._S._Maddala), [Kajal Lahiri](https://www.albany.edu/~klahiri/): [Introduction to Econometrics](https://jigjids.files.wordpress.com/2011/05/introduction-to-econometric-2nd.pdf)<br>
