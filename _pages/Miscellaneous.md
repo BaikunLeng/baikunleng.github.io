@@ -118,7 +118,7 @@ This RL course introduces the basic knowledge of reinforcement learning. Slides 
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/Papers/ESLII.pdf)<br>
 * [Martin J. Wainwright](https://wainwrigwork.github.io/): [High-Dimensional Statistics
 A Non-Asymptotic Viewpoint](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E)<br>
-
+* [Bradley Efron](https://efron.ckirby.su.domains/), [Trevor J. Hastie](https://statistics.stanford.edu/people/trevor-j-hastie): [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://hastie.su.domains/CASI_files/PDF/casi.pdf)<br>
 ###### Finance & Economics:
 * [G. S. Maddala](https://en.wikipedia.org/wiki/G._S._Maddala), [Kajal Lahiri](https://www.albany.edu/~klahiri/): [Introduction to Econometrics](https://jigjids.files.wordpress.com/2011/05/introduction-to-econometric-2nd.pdf)<br>
 * [John C. Hull](https://www-2.rotman.utoronto.ca/~hull/): [OPTIONS, FUTURES,
