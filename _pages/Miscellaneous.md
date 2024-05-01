@@ -77,6 +77,8 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 ##### Professor's Lectures:
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
 Prof. Tim provides a lot of courses in algorithms design, mechanism design.
+* [Prof. Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/): [CS170](https://cs170.org/), [Fall 2022 Youtube Video](https://www.youtube.com/playlist?list=PLnocShPlK-Ft-o7NInBDw18be86dNaxlT)<br>
+Prof. Tim provides a lot of courses in algorithms design, mechanism design.
 * [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html): [OPTbook (In Chinese)](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html), [Databook (In Chinese)](http://faculty.bicmr.pku.edu.cn/~wenzw/databook.html)<br>
 If you're not comfortable when using English materials, then Prof. Wen's Chinese version lecture notes may help you.
 * [Prof. Ramesh Johari](https://web.stanford.edu/~rjohari/): [Lecture Notes](https://web.stanford.edu/~rjohari/teaching/notes.html)<br>
@@ -85,6 +87,7 @@ In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, 
 In this page, Prof. Peng Ding shares lots of resources related to casual inferences including youtube courses, course materials and so on.<br>
 * [Prof. Fan Li](https://www2.stat.duke.edu/~fl35/): [STA640 Casual Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html)<br>
 * [Prof. Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/): [Statistical Machine Learning: Spring 2017](https://www.stat.cmu.edu/~ryantibs/statml/) [Video Link](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv)<br>
+It needs to mention that Prof. Ryan gives records of all his past lectures and open source all the materials. His course STAT 153 Time Series in Berkeley is also great.
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Artificial Intelligence for Business Research](https://github.com/rphilipzhang/AI-PhD-S24)<br>
 This aims to cultivate a foundational grasp of ML/AI principles relevant to business research, exploring their recent applications in addressing managerial issues and fostering an appreciation for the potential impacts of cutting-edge AI/ML innovations.<br>
 * [Prof. Alexander Amini](https://www.mit.edu/~amini/): [MIT 6. S191: Deep Learning](https://www.youtube.com/@AAmini)<br>
