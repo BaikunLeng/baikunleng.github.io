@@ -71,6 +71,7 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/)<br>
   The DeepLearning.AI give lots of short courses related to GenAI, LLM, RL&DL, GPT Prompt Engineering, taught by Andrew Ng and others.
 
+
 ##### Professor's Lectures:
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
 Prof. Tim provides a lot of courses in algorithms design, mechanism design.
@@ -86,6 +87,8 @@ This aims to cultivate a foundational grasp of ML/AI principles relevant to busi
 * [Prof. Alexander Amini](https://www.mit.edu/~amini/): [MIT 6. S191: Deep Learning](https://www.youtube.com/@AAmini)<br>
 * [Prof. Bolei Zhou](https://boleizhou.github.io/): [Intro to Reinforcement Learning (in Chinese)](https://github.com/zhoubolei/introRL)<br>
 This RL course introduces the basic knowledge of reinforcement learning. Slides are made in English and lectures are given in Mandarin. 
+* [Prof. Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php): [Generative AI](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)<br>
+  Prof. Hung-Yi Lee provides lots of excellent courses on his personal website including generative AI & ML & MLDS and so on.
 
 ##### Book Recommendation:
 ###### Online Algorithms and Online Learning:
