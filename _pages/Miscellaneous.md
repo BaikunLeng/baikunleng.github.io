@@ -91,8 +91,8 @@ This aims to cultivate a foundational grasp of ML/AI principles relevant to busi
 This RL course introduces the basic knowledge of reinforcement learning. Slides are made in English and lectures are given in Mandarin. 
 * [Prof. Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php): [Generative AI](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)<br>
   Prof. Hung-Yi Lee provides lots of excellent courses on his personal website including generative AI & ML & MLDS and so on.
-
-
+* [Dr. Andrej Karpathy](https://karpathy.ai/): [Youtube: AI](https://www.youtube.com/@AndrejKarpathy)<br>
+  Andrej is the founder and leading researcher in OpenAI. In his channel, he shares his own opinions and knowledge about Frontier AI.
 ##### Book Recommendation:
 ###### Online Algorithms and Online Learning:
 * [Elad Hazan](https://www.ehazan.com/): [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)<br>
@@ -162,11 +162,17 @@ On this page, Prof. Ye gives a collection of his talks most recently, from 2020 
 * [Prof. Faidra Monachou](https://faidramonachou.github.io/): [Fairness and Equity in Resource Allocation and
 Decision-Making: An Annotated Reading List](https://www.sigecom.org/exchanges/volume_20/1/MONACHOU.pdf)<br>
 On this page, Prof. Faidra overviewed a list of papers that point towards emerging directions in DEI.
+* [Dr. Yuzheng Sun](https://www.linkedin.com/in/yuzhengsun/): [How to make data useful (in Chinese)](https://www.youtube.com/@kedaibiao/videos)<br>
+As a data scientist, Dr. Sun make videos related to data science application in industry. 
 ##### Podcasts:
 * [Podcast: Owl Explains by Ava Labs](https://www.owlexplains.com/en/)<br>
 * [Blockchain Scholars Podcast](https://www.youtube.com/playlist?list=PLyy_BMKWX3SQfgJ3VhHv7hTbc28lJjl3G)<br>
-
-
+* [Lex Fridman Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)<br>
+##### Improve Coding:
+* [sentdex](https://www.youtube.com/@sentdex)<br>
+* [Code Bullet](https://www.youtube.com/@CodeBullet)<br>
+* [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)<br>
+* [Corey Schafer](https://www.youtube.com/@coreyms)<br>
 
 #### Interesting Storys
 * [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
