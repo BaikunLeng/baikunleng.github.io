@@ -129,6 +129,7 @@ AND OTHER DERIVATIVES](https://faculty.ksu.edu.sa/sites/default/files/options_fu
 * [Jing-Sheng Jeannette Song](https://people.duke.edu/~jssong/publications.html): [Research Handbook on Inventory Management](https://www.e-elgar.com/shop/usd/research-handbook-on-inventory-management-9781800377097.html)<br>
 * [Guillermo Gallego](https://scholar.google.com/citations?user=FK7w8QIAAAAJ&hl=zh-CN), [Huseyin Topaloglu](https://people.orie.cornell.edu/huseyin/): [Revenue Management and Pricing Analytics](https://link.springer.com/book/10.1007/978-1-4939-9606-3)<br>
 * [Kalyan Talluri](https://www.imperial.ac.uk/people/kalyan.talluri), [Garrett van Ryzin](https://business.columbia.edu/faculty/people/garrett-van-ryzin): [The Theory and Practice of Revenue Management](https://link.springer.com/book/10.1007/b139000)<br>
+* [David Simchi-Levi](https://slevi1.mit.edu/): [Designing and Managing the Supply Chain](https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/016-Design-and-Managing-The-Supply-Chain-Concepts-Strategies-and-Case-Studies-David-Simchi-Levi-Edisi-1-2000.pdf)<br>
 
 
 #### Ph.D. Application & Job Market
