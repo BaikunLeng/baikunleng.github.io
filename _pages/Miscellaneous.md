@@ -114,6 +114,7 @@ This RL course introduces the basic knowledge of reinforcement learning. Slides 
 * [Warrren B Powell](https://scholar.google.com/citations?user=vDw80QEAAAAJ&hl=zh-CN): [Approximate Dynamic Programming: Solving the Curses of Dimensionality](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)<br>
 * [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html), [John N. Tsitsiklis](http://web.mit.edu/jnt/www/home.html): [Neuro-Dynamic Programming](http://athenasc.com/ndpbook.html)<br>
 * [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html): [Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)<br>
+* [David P. Williamson](https://www.engineering.cornell.edu/faculty-directory/david-p-williamson) & [David B. Shmoys](https://people.orie.cornell.edu/shmoys/): [The Design of Approximation Algorithms](http://designofapproxalgs.com/book.pdf)<br>
 ###### Statistics:
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/Papers/ESLII.pdf)<br>
 * [Martin J. Wainwright](https://wainwrigwork.github.io/): [High-Dimensional Statistics
