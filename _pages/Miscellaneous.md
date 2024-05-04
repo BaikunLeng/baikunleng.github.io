@@ -136,7 +136,7 @@ AND OTHER DERIVATIVES](https://faculty.ksu.edu.sa/sites/default/files/options_fu
 * [Prof. Yichuan Ding](https://blogs.ubc.ca/ycding/): [My Experience of Operations Management Faculty Position Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/yichuan-advice.pdf)<br>
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [On the Operations Job Market: Reflections and Insights](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf)<br>
 * [Prof. Nikhil Garg](https://gargnikhil.com/): [Operations job market advice: a step-by-step guide](https://gargnikhil.com/files/NikhilGarg_JobMarketAdvice.pdf)<br>
-
+* [Prof. Zenan Chen](https://zenan.ch/): [IS jobs: A public crowdsourced database for job posts](https://isjobs.xyz/)<br>
 
 
 #### Blogs/Podcasts Recommended
