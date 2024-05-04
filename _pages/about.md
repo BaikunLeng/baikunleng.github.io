@@ -14,7 +14,7 @@ Welcome! My name is Baikun (Leon) Leng. I'm a senior undergraduate in the [Schoo
 
 I am passionate about exploring a wide array of research directions and emerging topics during my undergraduates period. Throughout my undergraduate studies, my primary research interests have been in Operations Interface and Market Design. I aim to address operational challenges that arise in business and society. [Special Thanks](https://docs.google.com/document/d/1OgV9CTCBdbvIVUikvdCwGaxfAh6RPsVJR44k_E-LcNc/edit)<br>
 
-[Welcome to My Space](https://baikunleng.notion.site/Leon-s-Space-0de5b2c29c5c4425b6a45642721ad896) [Newsletter](https://leonleng.substack.com/)<br>
+Welcome to My [Space](https://baikunleng.notion.site/Leon-s-Space-0de5b2c29c5c4425b6a45642721ad896) [Newsletter](https://leonleng.substack.com/)<br>
 [Email me](mailto:leonleng0730@gmail.com): leonleng0730@gmail.com
 
 
