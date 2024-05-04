@@ -159,6 +159,9 @@ On this page, Professor Qin give some notes and interesting stories about convex
 This page is another blog aggregator set up by Prof. Torbjörn Netland. Here, you can find several OR/OM blogs, such as 'Jay and Barry’s OM Blog' created by Barry Render and Jay Heizer, 'Global Supply Chain Blog' created by the faculty at UCLA Anderson School, and others.
 * [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/): [Talks Collection](https://web.stanford.edu/~yyye/talks.html)<br>
 On this page, Prof. Ye gives a collection of his talks most recently, from 2020 to Now.
+* [Prof. Faidra Monachou](https://faidramonachou.github.io/): [Fairness and Equity in Resource Allocation and
+Decision-Making: An Annotated Reading List](https://www.sigecom.org/exchanges/volume_20/1/MONACHOU.pdf)<br>
+On this page, Prof. Faidra overviewed a list of papers that point towards emerging directions in DEI.
 ##### Podcasts:
 * [Podcast: Owl Explains by Ava Labs](https://www.owlexplains.com/en/)<br>
 * [Blockchain Scholars Podcast](https://www.youtube.com/playlist?list=PLyy_BMKWX3SQfgJ3VhHv7hTbc28lJjl3G)<br>
