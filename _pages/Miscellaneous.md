@@ -58,17 +58,7 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 ###### Conferences & Society Talks & Department Colloquium:
 * [Online Causal Inference Seminar](https://www.youtube.com/@onlinecausalinferencesemin2364)<br>
 * [Stochastic Programming Society](https://www.youtube.com/@stochasticprogrammingsocie3357)<br>
-* [SNAPP Seminar: Stochastic Networks, Applied Probability, and Performance](https://www.youtube.com/@snappseminar8557)<br>
 * [2022 Management of Service Systems](https://www.youtube.com/@networksthenetworkpages1865)<br>
-* [Discrete Optimization Talks](https://www.youtube.com/c/DiscreteOptimizationTalks)<br>
-* [EC Conferences: ACM SIGecom](https://www.youtube.com/@ACMSIGecom)<br>
-* [POM Society](https://www.youtube.com/@POMSociety1/streams)<br>
-* ["RMP" Sessions: CAMs](https://www.youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)<br>
-* [INFORMS RMP Section](https://www.youtube.com/@informsrevenuemanagementan4492)<br>
-* [Cornell ORIE Colloquium](https://vod.video.cornell.edu/media/ORIE+Colloquium+on+9+6+2011+-+Huseyin+TopalogluA+Robust+Assortment+Optimization+under+Multinomial+Logit+Model/1_v27lzgub)<br>
-* [Berkeley Simons Institute](https://www.youtube.com/@SimonsInstituteTOC)<br>
-* [Yale SOM Operation Management Seminar](https://som.yale.edu/programs/phd/overview/operations/seminar-series)<br>
-* [MIT: Initiative on the Digital Economy](https://www.youtube.com/@mitide)<br>
 ###### University Resources:
 * [Stanford Online](https://www.youtube.com/@stanfordonline)<br>
   It includes all the stanford online resources that can be accessed. Such as some CS courses.
@@ -79,7 +69,9 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/)<br>
   The DeepLearning.AI give lots of short courses related to GenAI, LLM, RL&DL, GPT Prompt Engineering, taught by Andrew Ng and others.
 * [Awesome AIGC Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials)<br>
-  On this page, the author collects a list of all the useful open source courses related to AIGC learning! 
+  On this page, the author collects a list of all the useful open source courses related to AIGC learning!
+* [Microsoft Research](https://www.youtube.com/@MicrosoftResearch)<br>
+* [IBM Technology](https://www.youtube.com/@IBMTechnology/playlists)<br>
 
 ##### Professor's Lectures:
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
