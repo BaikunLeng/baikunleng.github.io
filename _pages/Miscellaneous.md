@@ -59,6 +59,8 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [Online Causal Inference Seminar](https://www.youtube.com/@onlinecausalinferencesemin2364)<br>
 * [Stochastic Programming Society](https://www.youtube.com/@stochasticprogrammingsocie3357)<br>
 * [2022 Management of Service Systems](https://www.youtube.com/@networksthenetworkpages1865)<br>
+* ["Subject to"](https://www.youtube.com/@Subjectto_/videos)<br>
+Subject to" offers a series of informal conversations with relevant figures in the fields of Operations Research, Combinatorial Optimization and Logistics. <br>
 ###### University Resources:
 * [Stanford Online](https://www.youtube.com/@stanfordonline)<br>
   It includes all the stanford online resources that can be accessed. Such as some CS courses.
