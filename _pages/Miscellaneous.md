@@ -56,11 +56,11 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 
 ##### Videos:
 ###### Conferences & Society Talks & Department Colloquium:
-* [Online Causal Inference Seminar](https://www.youtube.com/@onlinecausalinferencesemin2364)<br>
-* [Stochastic Programming Society](https://www.youtube.com/@stochasticprogrammingsocie3357)<br>
 * [2022 Management of Service Systems](https://www.youtube.com/@networksthenetworkpages1865)<br>
+* [AI in Focus: Interview Series with Wharton Professors](https://www.youtube.com/playlist?list=PLJwDZwuKYrpHf7BSH1Zz1IjL_Z5Fvi90e)<br>
 * ["Subject to"](https://www.youtube.com/@Subjectto_/videos)<br>
 Subject to" offers a series of informal conversations with relevant figures in the fields of Operations Research. <br>
+
 ###### University Resources:
 * [Stanford Online](https://www.youtube.com/@stanfordonline)<br>
   It includes all the stanford online resources that can be accessed. Such as some CS courses.
@@ -122,6 +122,7 @@ This RL course introduces the basic knowledge of reinforcement learning. Slides 
 * [Martin J. Wainwright](https://wainwrigwork.github.io/): [High-Dimensional Statistics
 A Non-Asymptotic Viewpoint](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E)<br>
 * [Bradley Efron](https://efron.ckirby.su.domains/), [Trevor J. Hastie](https://statistics.stanford.edu/people/trevor-j-hastie): [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://hastie.su.domains/CASI_files/PDF/casi.pdf)<br>
+* [Victor Chernozhukov](http://www.mit.edu/~vchern/), [Christian Hansen](https://www.chicagobooth.edu/faculty/directory/h/christian-b-hansen), [Nathan Kallus](https://nathankallus.com/),  [Martin Spindler](https://www.bwl.uni-hamburg.de/en/statistik/team/spindler.html), [Vasilis Syrgkanis](https://vsyrgkanis.com/): [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/assets/chapters/CausalML_book.pdf)<br>
 ###### Finance & Economics:
 * [G. S. Maddala](https://en.wikipedia.org/wiki/G._S._Maddala), [Kajal Lahiri](https://www.albany.edu/~klahiri/): [Introduction to Econometrics](https://jigjids.files.wordpress.com/2011/05/introduction-to-econometric-2nd.pdf)<br>
 * [John C. Hull](https://www-2.rotman.utoronto.ca/~hull/): [OPTIONS, FUTURES,
