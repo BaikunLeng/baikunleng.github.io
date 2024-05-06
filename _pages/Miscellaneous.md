@@ -166,7 +166,9 @@ On this page, Prof. Ye gives a collection of his talks most recently, from 2020 
 Decision-Making: An Annotated Reading List](https://www.sigecom.org/exchanges/volume_20/1/MONACHOU.pdf)<br>
 On this page, Prof. Faidra overviewed a list of papers that point towards emerging directions in DEI.
 * [Dr. Yuzheng Sun](https://www.linkedin.com/in/yuzhengsun/): [How to make data useful (in Chinese)](https://www.youtube.com/@kedaibiao/videos)<br>
-As a data scientist, Dr. Sun make videos related to data science application in industry. 
+As a data scientist, Dr. Sun make videos related to data science application in industry.
+* [Dr. Sarah H. Cen](https://shcen.github.io/): [Newsletter: Thoughts on AI Policy](https://aipolicy.substack.com/)<br>
+This blog explores the implications of AI & tech on society and policy making. 
 ##### Podcasts:
 * [Podcast: Owl Explains by Ava Labs](https://www.owlexplains.com/en/)<br>
 * [Blockchain Scholars Podcast](https://www.youtube.com/playlist?list=PLyy_BMKWX3SQfgJ3VhHv7hTbc28lJjl3G)<br>
