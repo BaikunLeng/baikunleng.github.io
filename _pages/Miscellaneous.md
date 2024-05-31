@@ -23,12 +23,9 @@ Acknowledgement: thanks for Prof. Xiao Lei and Prof. Zizhuo Wang providing the i
 |          |          |          |          |         
 |:--------:|:--------:|:--------:|:--------:|
 | [Berkeley](https://photos.app.goo.gl/pK9AAPvCiR1WHB258) | [Los Angeles](https://photos.app.goo.gl/aHzbdyJh1drJ5yH26) | [New York](https://photos.app.goo.gl/Foq7DTBVztGrAdiC7) | [Boston](https://photos.app.goo.gl/A5W44seKAZgY5Sfd8) |
-| [Shenzhen](https://photos.app.goo.gl/5cQSqT4JhbtEz2uc7) | [Europe]() | [Seattle]() | [Japan]() 
+| [Shenzhen](https://photos.app.goo.gl/5cQSqT4JhbtEz2uc7) | [Friends](https://photos.app.goo.gl/YeK17bmobkwjWtZFA) |[Graduations](https://photos.google.com/album/AF1QipNANHPGZCHtPz0noYiAHLQdQhgl0Gt_wRoT8mey)| [Child](https://photos.app.goo.gl/iabyrjJahW7vp31f7)  
 
-|          |          |          |          |         
-|:--------:|:--------:|:--------:|:--------:|
-| [Food](https://photos.google.com/album/AF1QipPCF-riihxiGPGs4oOQvRu0tkLIai81XKUg61O8) | [Conferences]() | [Talks]() | [Organizations]() |
-| [Friends](https://photos.app.goo.gl/YeK17bmobkwjWtZFA) | [Graduations](https://photos.google.com/album/AF1QipNANHPGZCHtPz0noYiAHLQdQhgl0Gt_wRoT8mey) | [Injury](https://photos.app.goo.gl/TsL3Mh76mGX9y5aF8) | [Child](https://photos.app.goo.gl/iabyrjJahW7vp31f7) 
+
 
 
 
