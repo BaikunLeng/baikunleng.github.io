@@ -42,7 +42,6 @@ Here are some collections of useful open-source resources. Thanks for all the au
 * [Prof. Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html): [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)<br>
 * [Prof. John Tsitsiklis](https://www.mit.edu/~jnt/home.html): [A Few Tips On Writing Papers With Mathematical Content](https://www.mit.edu/~jnt/Papers/R-20-write-v5.pdf)<br>
 * [Prof. Graham Cormode](http://dimacs.rutgers.edu/~graham/): [How NOT to review a paper: the tools and techniques of the adversarial reviewer](https://dl.acm.org/doi/10.1145/1519103.1519122)<br>
-* [Prof. Brady Neal](https://www.bradyneal.com/aboutme): [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)<br>
 
 #### What Kind of courses should I take with the aim of pursuing a Ph.D.?
 * [Prof. Anthony Lee Zhang](https://anthonyleezhang.github.io/) [Dr. Lingxuan Wu](https://www.lingxuanwu.me/): [What Math Classes Should I Take If I Want To Get An Econ/Fin PhD](https://docs.google.com/document/d/11q2NRrzvMnLEQu2Jj_TgDEeYnlXA3fcg/edit) <br>
@@ -90,6 +89,7 @@ This RL course introduces the basic knowledge of reinforcement learning. Slides 
   Prof. Hung-Yi Lee provides lots of excellent courses on his personal website including generative AI & ML & MLDS and so on.
 * [Dr. Andrej Karpathy](https://karpathy.ai/): [Youtube: AI](https://www.youtube.com/@AndrejKarpathy)<br>
   Andrej is the founder and leading researcher in OpenAI. In his channel, he shares his own opinions and knowledge about Frontier AI.
+* [Prof. Brady Neal](https://www.bradyneal.com/aboutme): [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)<br>
 ##### Book Recommendation:
 ###### Online Algorithms and Online Learning:
 * [Elad Hazan](https://www.ehazan.com/): [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)<br>
@@ -180,29 +180,10 @@ On this page, Professor Will shares insights on how playing poker has enhanced h
 * [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/): [Yinyu Ye: Sports led me from the rice fields to Stanford](https://engineering.stanford.edu/magazine/yinyu-ye-sports-led-me-rice-fields-stanford)<br>
 On this page, Professor Ye shares the story of his sports life and its impact on his long-term academic journey.
 
-#### Open-Source Datasets/Librarys
-##### Healthcare Datasets 
-* [Prof. Hamsa Bastani](https://hamsabastani.github.io/index.html): [Cancer Clinical Trial Dataset & Targeted COVID-19 Screening Dataset](https://hamsabastani.github.io/datasets.html)<br>
-* [Technion SEE Lab For Data On Healthcare And Call Center Operations ](https://seelab.net.technion.ac.il/)
-* [MIMIC-III Clinical Database: Healthcare Datasets](https://physionet.org/content/mimiciii/1.4/)
-##### Recommendation System Datasets 
-* [BARS: Dataset/Benchmark Collection For Recommendation Systems](https://openbenchmark.github.io/BARS/index.html)
-* [Microsoft MIND Data Set For Recommendation Systems](https://msnews.github.io/)
-* [Github Recommend System Datasets1](https://github.com/caserec/Datasets-for-Recommender-Systems)
-* [Github Recommend System Datasets2](https://github.com/RUCAIBox/RecSysDatasets)
-##### Revenue Management Datasets 
-* [Prof. Huseyin Topaloglu](https://people.orie.cornell.edu/huseyin/index.html): [Datasets Related to Revenue Management](https://people.orie.cornell.edu/huseyin/research/research.html)<br>
-##### OR Related Datasets/Librarys
-* [Prof. J E Beasley](http://people.brunel.ac.uk/~mastjjb/jeb/jeb.html): [OR-Library: A Collection of Test Data Sets For A Variety of Operations Research (OR) Problems](http://people.brunel.ac.uk/~mastjjb/jeb/info.html)<br>
-* [NL4OPT: Natural Language To Optimization Modeling](https://nl4opt.github.io/)
-* [MIPLIB 2017 – The Mixed Integer Programming Library](https://miplib.zib.de/index.html)
-##### DATAHUBS! These Addresses Include Many Different Types of Datasets
-* [Prof. Anthony Lee Zhang](https://anthonyleezhang.github.io/): [Public Datasets For Doing Empircal Research](https://docs.google.com/spreadsheets/d/1pfP1ip1MbAP-a9DRKDfAYI_FIe2DaZ0bRLGpNn4P6PE/edit#gid=0)
-* [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
-* [Gabors Data Analysis](https://gabors-data-analysis.com/data-source-ideas)
-* [Open ML Dataets](https://www.openml.org/search?type=data&status=active)
-* [Kaggle Datasets](https://www.kaggle.com/datasets)
-* [Datahub](https://old.datahub.io/dataset/)<br>
+
+
+
+
 
 
 
