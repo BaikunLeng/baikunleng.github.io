@@ -48,12 +48,13 @@ Here are some collections of useful open-source resources. Thanks for all the au
 Claim: Original their link cannot be accessed so I use mine. If the authors inquire me to operate it, please let me know:)
 * [Prof. Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/): [What Math Classes Should I Take If I Want To Get An OM or OR PhD](https://twitter.com/cnytoronto/status/1741498747111059763)<br>
 
-##### Videos:
-###### Conferences & Society Talks & Department Colloquium:
-* [2022 Management of Service Systems](https://www.youtube.com/@networksthenetworkpages1865)<br>
-* [AI in Focus: Interview Series with Wharton Professors](https://www.youtube.com/playlist?list=PLJwDZwuKYrpHf7BSH1Zz1IjL_Z5Fvi90e)<br>
-* ["Subject to"](https://www.youtube.com/@Subjectto_/videos)<br>
-Subject to" offers a series of informal conversations with relevant figures in the fields of Operations Research. <br>
+#### Ph.D. Application & Job Market
+* [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
+* [Prof. Anthony Lee Zhang](https://anthonyleezhang.github.io/index.html): [Tips About Social & Professional Norms In US Academia For International PhD Students](https://docs.google.com/document/d/1E8rryh-gj1IzsxNT_Sd29-SrzaKFMFIbG7v-e5KkzOs/edit)<br>
+* [Prof. Yichuan Ding](https://blogs.ubc.ca/ycding/): [My Experience of Operations Management Faculty Position Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/yichuan-advice.pdf)<br>
+* [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [On the Operations Job Market: Reflections and Insights](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf)<br>
+* [Prof. Nikhil Garg](https://gargnikhil.com/): [Operations job market advice: a step-by-step guide](https://gargnikhil.com/files/NikhilGarg_JobMarketAdvice.pdf)<br>
+* [Prof. Zenan Chen](https://zenan.ch/): [IS jobs: A public crowdsourced database for job posts](https://isjobs.xyz/)<br>
 
 ###### University Resources:
 * [Stanford Online](https://www.youtube.com/@stanfordonline)<br>
@@ -66,6 +67,7 @@ Subject to" offers a series of informal conversations with relevant figures in t
   The DeepLearning.AI give lots of short courses related to GenAI, LLM, RL&DL, GPT Prompt Engineering, taught by Andrew Ng and others.
 * [Awesome AIGC Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials)<br>
   On this page, the author collects a list of all the useful open source courses related to AIGC learning!
+
 ##### Professor's Lectures:
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
 Prof. Tim provides a lot of courses in algorithms design, mechanism design.
@@ -90,14 +92,6 @@ This RL course introduces the basic knowledge of reinforcement learning. Slides 
 * [Dr. Andrej Karpathy](https://karpathy.ai/): [Youtube: AI](https://www.youtube.com/@AndrejKarpathy)<br>
   Andrej is the founder and leading researcher in OpenAI. In his channel, he shares his own opinions and knowledge about Frontier AI.
 * [Prof. Brady Neal](https://www.bradyneal.com/aboutme): [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)<br>
-
-#### Ph.D. Application & Job Market
-* [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
-* [Prof. Anthony Lee Zhang](https://anthonyleezhang.github.io/index.html): [Tips About Social & Professional Norms In US Academia For International PhD Students](https://docs.google.com/document/d/1E8rryh-gj1IzsxNT_Sd29-SrzaKFMFIbG7v-e5KkzOs/edit)<br>
-* [Prof. Yichuan Ding](https://blogs.ubc.ca/ycding/): [My Experience of Operations Management Faculty Position Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/yichuan-advice.pdf)<br>
-* [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [On the Operations Job Market: Reflections and Insights](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf)<br>
-* [Prof. Nikhil Garg](https://gargnikhil.com/): [Operations job market advice: a step-by-step guide](https://gargnikhil.com/files/NikhilGarg_JobMarketAdvice.pdf)<br>
-* [Prof. Zenan Chen](https://zenan.ch/): [IS jobs: A public crowdsourced database for job posts](https://isjobs.xyz/)<br>
 
 #### Blogs/Podcasts Recommended
 ##### Blogs:
@@ -124,15 +118,6 @@ On this page, Prof. Faidra overviewed a list of papers that point towards emergi
 As a data scientist, Dr. Sun make videos related to data science application in industry.
 * [Dr. Sarah H. Cen](https://shcen.github.io/): [Newsletter: Thoughts on AI Policy](https://aipolicy.substack.com/)<br>
 This blog explores the implications of AI & tech on society and policy making. 
-##### Podcasts:
-* [Podcast: Owl Explains by Ava Labs](https://www.owlexplains.com/en/)<br>
-* [Blockchain Scholars Podcast](https://www.youtube.com/playlist?list=PLyy_BMKWX3SQfgJ3VhHv7hTbc28lJjl3G)<br>
-* [Lex Fridman Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)<br>
-##### Improve Coding:
-* [sentdex](https://www.youtube.com/@sentdex)<br>
-* [Code Bullet](https://www.youtube.com/@CodeBullet)<br>
-* [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)<br>
-* [Corey Schafer](https://www.youtube.com/@coreyms)<br>
 
 #### Interesting Storys
 * [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
