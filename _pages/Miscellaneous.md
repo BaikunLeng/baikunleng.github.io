@@ -90,45 +90,6 @@ This RL course introduces the basic knowledge of reinforcement learning. Slides 
 * [Dr. Andrej Karpathy](https://karpathy.ai/): [Youtube: AI](https://www.youtube.com/@AndrejKarpathy)<br>
   Andrej is the founder and leading researcher in OpenAI. In his channel, he shares his own opinions and knowledge about Frontier AI.
 * [Prof. Brady Neal](https://www.bradyneal.com/aboutme): [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)<br>
-##### Book Recommendation:
-###### Online Algorithms and Online Learning:
-* [Elad Hazan](https://www.ehazan.com/): [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)<br>
-* [Francesco Orabona](https://francesco.orabona.com/): [A Modern Introduction to Online Learning](https://arxiv.org/pdf/1912.13213.pdf)<br>
-* [Aranyak Mehta](https://scholar.google.com/citations?user=S39CcbQAAAAJ&hl=en): [Online Matching and Ad Allocation](https://www.cs.cmu.edu/~arielpro/15896s15/docs/paper13b.pdf)<br>
-* [Cong Shi](https://congshi-research.github.io/research.html), [Stefanus Jasin](https://sites.google.com/view/jasin), [Xi Chen](https://pages.stern.nyu.edu/~xchen3/?_ga=2.129512460.1834096655.1709704335-12329029.1690201733): [The Elements of Joint Learning and Optimization in Operations Management](https://link.springer.com/book/10.1007/978-3-031-01926-5)<br>
-###### Optimization Theory:
-* [Dimitris Bertsimas](https://www.dbertsim.mit.edu/), [John N. Tsitsiklis](http://web.mit.edu/jnt/www/home.html): [Introduction to Linear Optimization](http://athenasc.com/linoptbook.html)<br>
-* [Stephen P. Boyd](https://stanford.edu/~boyd/), [Lieven Vandenberghe](https://www.seas.ucla.edu/~vandenbe/): [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)<br>
-* [Yinyu Ye](http://web.stanford.edu/~yyye/), [David Luenberger](https://profiles.stanford.edu/david-luenberger): [Linear and Nonlinear Programming](https://web.stanford.edu/class/msande310/310trialtext.pdf)<br>
-* [Yurii Nesterov](https://scholar.google.com/citations?user=DJ8Ep8YAAAAJ&hl=zh-CN): [Lectures on Convex Optimization](https://shuyuej.com/books/Lectures%20on%20Convex%20Optimization.pdf)<br>
-* [Jorge Nocedal](https://scholar.google.com.hk/citations?user=gGNxMZ0AAAAJ&hl=zh-CN), [Stephen J. Wright
-](https://pages.cs.wisc.edu/~swright/): [Numerical Optimization](https://www.ime.unicamp.br/~pulino/MT404/TextosOnline/NocedalJ.pdf)<br>
-###### Stochastic Process:
-* [Sheldon Mark Ross](https://viterbi.usc.edu/directory/faculty/Ross/Sheldon): [Introduction to Probability Models](https://www.sciencedirect.com/book/9780124079489/introduction-to-probability-models)<br>
-* [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html), [John N. Tsitsiklis](http://web.mit.edu/jnt/www/home.html): [Introduction to Probability](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf)<br>
-* [Tor Lattimore](https://tor-lattimore.com/), [Csaba Szepesv´ari](https://sites.ualberta.ca/~szepesva/): [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf)<br>
-###### Dynamic Programming:
-* [Warrren B Powell](https://scholar.google.com/citations?user=vDw80QEAAAAJ&hl=zh-CN): [Approximate Dynamic Programming: Solving the Curses of Dimensionality](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)<br>
-* [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html), [John N. Tsitsiklis](http://web.mit.edu/jnt/www/home.html): [Neuro-Dynamic Programming](http://athenasc.com/ndpbook.html)<br>
-* [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html): [Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)<br>
-* [David P. Williamson](https://www.engineering.cornell.edu/faculty-directory/david-p-williamson) & [David B. Shmoys](https://people.orie.cornell.edu/shmoys/): [The Design of Approximation Algorithms](http://designofapproxalgs.com/book.pdf)<br>
-###### Statistics:
-* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/Papers/ESLII.pdf)<br>
-* [Martin J. Wainwright](https://wainwrigwork.github.io/): [High-Dimensional Statistics
-A Non-Asymptotic Viewpoint](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E)<br>
-* [Bradley Efron](https://efron.ckirby.su.domains/), [Trevor J. Hastie](https://statistics.stanford.edu/people/trevor-j-hastie): [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://hastie.su.domains/CASI_files/PDF/casi.pdf)<br>
-* [Victor Chernozhukov](http://www.mit.edu/~vchern/), [Christian Hansen](https://www.chicagobooth.edu/faculty/directory/h/christian-b-hansen), [Nathan Kallus](https://nathankallus.com/),  [Martin Spindler](https://www.bwl.uni-hamburg.de/en/statistik/team/spindler.html), [Vasilis Syrgkanis](https://vsyrgkanis.com/): [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/assets/chapters/CausalML_book.pdf)<br>
-###### Finance & Economics:
-* [G. S. Maddala](https://en.wikipedia.org/wiki/G._S._Maddala), [Kajal Lahiri](https://www.albany.edu/~klahiri/): [Introduction to Econometrics](https://jigjids.files.wordpress.com/2011/05/introduction-to-econometric-2nd.pdf)<br>
-* [John C. Hull](https://www-2.rotman.utoronto.ca/~hull/): [OPTIONS, FUTURES,
-AND OTHER DERIVATIVES](https://faculty.ksu.edu.sa/sites/default/files/options_futures_and_other_derivatives_8th_ed_part1.pdf)<br>
-* [Giuseppe Paleologo](https://www.linkedin.com/in/gappy/): [Buy-Side Quant Job Advice](https://drive.google.com/file/d/1otua7EOUn-ImOc6X3MZyZV1yzJPHdOkK/view?usp=sharing)<br>
-###### Operation Management:
-* [Jing-Sheng Jeannette Song](https://people.duke.edu/~jssong/publications.html): [Research Handbook on Inventory Management](https://www.e-elgar.com/shop/usd/research-handbook-on-inventory-management-9781800377097.html)<br>
-* [Guillermo Gallego](https://scholar.google.com/citations?user=FK7w8QIAAAAJ&hl=zh-CN), [Huseyin Topaloglu](https://people.orie.cornell.edu/huseyin/): [Revenue Management and Pricing Analytics](https://link.springer.com/book/10.1007/978-1-4939-9606-3)<br>
-* [Kalyan Talluri](https://www.imperial.ac.uk/people/kalyan.talluri), [Garrett van Ryzin](https://business.columbia.edu/faculty/people/garrett-van-ryzin): [The Theory and Practice of Revenue Management](https://link.springer.com/book/10.1007/b139000)<br>
-* [David Simchi-Levi](https://slevi1.mit.edu/): [Designing and Managing the Supply Chain](https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/016-Design-and-Managing-The-Supply-Chain-Concepts-Strategies-and-Case-Studies-David-Simchi-Levi-Edisi-1-2000.pdf)<br>
-
 
 #### Ph.D. Application & Job Market
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [Something to Say about the Application (in Chinese)](https://rphilipzhang.github.io/rphilipzhang/OM-PhD-Application.pdf)<br>
@@ -137,7 +98,6 @@ AND OTHER DERIVATIVES](https://faculty.ksu.edu.sa/sites/default/files/options_fu
 * [Prof. Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html): [On the Operations Job Market: Reflections and Insights](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf)<br>
 * [Prof. Nikhil Garg](https://gargnikhil.com/): [Operations job market advice: a step-by-step guide](https://gargnikhil.com/files/NikhilGarg_JobMarketAdvice.pdf)<br>
 * [Prof. Zenan Chen](https://zenan.ch/): [IS jobs: A public crowdsourced database for job posts](https://isjobs.xyz/)<br>
-
 
 #### Blogs/Podcasts Recommended
 ##### Blogs:
