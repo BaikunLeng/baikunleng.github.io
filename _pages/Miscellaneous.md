@@ -56,18 +56,6 @@ Claim: Original their link cannot be accessed so I use mine. If the authors inqu
 * [Prof. Nikhil Garg](https://gargnikhil.com/): [Operations job market advice: a step-by-step guide](https://gargnikhil.com/files/NikhilGarg_JobMarketAdvice.pdf)<br>
 * [Prof. Zenan Chen](https://zenan.ch/): [IS jobs: A public crowdsourced database for job posts](https://isjobs.xyz/)<br>
 
-###### University Resources:
-* [Stanford Online](https://www.youtube.com/@stanfordonline)<br>
-  It includes all the stanford online resources that can be accessed. Such as some CS courses.
-* [Stanford: Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?app=desktop&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<br>
-  Hosted by Stanford, this course will give a brief introduction about the casual inferences and ML methods in empirical study.
-* [MIT OpenCourseWare](https://www.youtube.com/@mitocw/featured)<br> Similar as Stanford online, MIT also published some open courses resources.
-* [UCL & Goodle DeepMind: RL & DL Theory](https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5) & [Microsoft Research](https://www.youtube.com/@MicrosoftResearch) & [IBM Technology](https://www.youtube.com/@IBMTechnology/playlists)<br>
-* [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/)<br>
-  The DeepLearning.AI give lots of short courses related to GenAI, LLM, RL&DL, GPT Prompt Engineering, taught by Andrew Ng and others.
-* [Awesome AIGC Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials)<br>
-  On this page, the author collects a list of all the useful open source courses related to AIGC learning!
-
 ##### Professor's Lectures:
 * [Prof. Tim Roughgarden](http://timroughgarden.org/): [Tim's Online Courses](http://timroughgarden.org/videos.html), [Tim's Lecture Notes](http://timroughgarden.org/notes.html)<br>
 Prof. Tim provides a lot of courses in algorithms design, mechanism design.
