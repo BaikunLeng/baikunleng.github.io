@@ -67,6 +67,7 @@ If you're not comfortable when using English materials, then Prof. Wen's Chinese
 In this page, Prof. Ramesh give lecture notes related "Data" (machine learning, casual inference), "Game Theory with Engineering Applications" and "Dynamics and Learning in Games".<br>
 * [Prof. Peng Ding](https://sites.google.com/site/pengdingpku/home?authuser=0): [Casual Inference Resources](https://sites.google.com/site/pengdingpku/resources?authuser=0)<br>
 In this page, Prof. Peng Ding shares lots of resources related to casual inferences including youtube courses, course materials and so on.<br>
+* [Prof. Brady Neal](https://www.bradyneal.com/aboutme): [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)<br>
 * [Prof. Fan Li](https://www2.stat.duke.edu/~fl35/): [STA640 Casual Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html)<br>
 * [Prof. Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/): [Statistical Machine Learning: Spring 2017](https://www.stat.cmu.edu/~ryantibs/statml/) [Video Link](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv)<br>
 It needs to mention that Prof. Ryan gives records of all his past lectures and open source all the materials. His course STAT 153 Time Series in Berkeley is also great.
@@ -79,7 +80,6 @@ This RL course introduces the basic knowledge of reinforcement learning. Slides 
   Prof. Hung-Yi Lee provides lots of excellent courses on his personal website including generative AI & ML & MLDS and so on.
 * [Dr. Andrej Karpathy](https://karpathy.ai/): [Youtube: AI](https://www.youtube.com/@AndrejKarpathy)<br>
   Andrej is the founder and leading researcher in OpenAI. In his channel, he shares his own opinions and knowledge about Frontier AI.
-* [Prof. Brady Neal](https://www.bradyneal.com/aboutme): [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)<br>
 
 #### Blogs Recommended
 * [Dr. Amira Hijazi](https://amhijazi.com/): [Resources for Graduate Students in OR/MS/ISE](https://amhijazi.com/post/resources/)<br>
@@ -104,7 +104,9 @@ On this page, Prof. Faidra overviewed a list of papers that point towards emergi
 * [Dr. Yuzheng Sun](https://www.linkedin.com/in/yuzhengsun/): [How to make data useful (in Chinese)](https://www.youtube.com/@kedaibiao/videos)<br>
 As a data scientist, Dr. Sun make videos related to data science application in industry.
 * [Dr. Sarah H. Cen](https://shcen.github.io/): [Newsletter: Thoughts on AI Policy](https://aipolicy.substack.com/)<br>
-This blog explores the implications of AI & tech on society and policy making. 
+This blog explores the implications of AI & tech on society and policy making.
+* [Prof. Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/home?authuser=0): [Tips For Economists
+](https://sites.google.com/site/mkudamatsu/tips4economists)<br>
 
 #### Interesting Storys
 * [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
