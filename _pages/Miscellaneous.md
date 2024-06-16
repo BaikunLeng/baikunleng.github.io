@@ -107,6 +107,7 @@ As a data scientist, Dr. Sun make videos related to data science application in 
 This blog explores the implications of AI & tech on society and policy making.
 * [Prof. Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/home?authuser=0): [Tips For Economists
 ](https://sites.google.com/site/mkudamatsu/tips4economists)<br>
+On this Page, Prof. Masayuki gives suggestions about how to choose research topics, build therotical models and do empirical work.
 
 #### Interesting Storys
 * [Prof. Will Ma](http://www.columbia.edu/~wm2428/index.html): [The Joy of Making Good Decisions](https://www.youtube.com/watch?v=WkiL_eusiio)<br>
