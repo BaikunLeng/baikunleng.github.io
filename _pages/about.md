@@ -17,7 +17,7 @@ He is passionate about exploring a wide array of emerging topics in AI, Blockcha
 He also created the database for [CBER](https://www.cber-forum.org/literature) and held the School of Data Science Undergraduate Seminar. Besides academia, he was an anaylst at [Nothing Research Venture Capital](https://www.nothing-research.com/) and [US Arctic Research Commission](https://www.arctic.gov/).  
 
 Welcome to his [Space](https://baikunleng.notion.site/Leon-s-Space-0de5b2c29c5c4425b6a45642721ad896), [Newsletter](https://leonleng.substack.com/), [Channel](https://www.youtube.com/@leonleng5)<br>
-Book a Chat With Me: [Sunday Service](https://calendly.com/leonleng0730/11)
+Book a Chat With Me: [Sunday Service](https://calendly.com/leonleng0730/11)<br>
 [Email](mailto:leonleng0730@gmail.com): leonleng0730@gmail.com
 
 
