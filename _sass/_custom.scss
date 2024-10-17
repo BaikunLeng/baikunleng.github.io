@@ -1,0 +1,30 @@
+#news-section {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.news-container {
+  height: 200px;
+  overflow-y: scroll;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.news-item {
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #eef;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.news-item:hover {
+  background-color: #ddd;
+}
