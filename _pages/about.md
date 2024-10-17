@@ -19,6 +19,26 @@ He also created the database for [CBER](https://www.cber-forum.org/literature) a
 Welcome to his [Space](https://baikunleng.notion.site/Leon-s-Space-0de5b2c29c5c4425b6a45642721ad896), [Newsletter](https://leonleng.substack.com/), [Channel](https://www.youtube.com/@leonleng5)<br>
 Book a Chat With Me: [Sunday Service](https://calendly.com/leonleng0730/11)<br>
 
+<script>
+  const newsContainer = document.querySelector('.news-container');
+  let scrollAmount = 0;
+  
+  function autoScroll() {
+    scrollAmount += 1;
+    newsContainer.scrollTop = scrollAmount;
+    
+    if (scrollAmount >= newsContainer.scrollHeight - newsContainer.clientHeight) {
+      scrollAmount = 0; // 重置滚动
+    }
+  }
+
+  setInterval(autoScroll, 50); // 每50毫秒滚动一次
+</script>
+
+
+
+
+
 [Email](mailto:leonleng0730@gmail.com): leonleng0730@gmail.com
 
 
