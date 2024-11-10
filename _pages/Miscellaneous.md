@@ -20,7 +20,6 @@ As I embark on my journey as a PhD candidate, I look forward to attending confer
 
 |          |          |          |          |         
 |:--------:|:--------:|:--------:|:--------:|
-|:--------:|:--------:|:--------:|:--------:|
 | [Berkeley](https://photos.app.goo.gl/pK9AAPvCiR1WHB258) | [Los Angeles](https://photos.app.goo.gl/aHzbdyJh1drJ5yH26) | [New York](https://photos.app.goo.gl/Foq7DTBVztGrAdiC7) | [Boston](https://photos.app.goo.gl/A5W44seKAZgY5Sfd8) |
 | [Shenzhen](https://photos.app.goo.gl/5cQSqT4JhbtEz2uc7) | [Seattle](https://photos.app.goo.gl/YeK17bmobkwjWtZFA) |[Random](https://photos.google.com/album/AF1QipNANHPGZCHtPz0noYiAHLQdQhgl0Gt_wRoT8mey)| [Views](https://photos.app.goo.gl/iabyrjJahW7vp31f7)  
 | [Shenzhen](https://photos.app.goo.gl/5cQSqT4JhbtEz2uc7) | [Friends](https://photos.app.goo.gl/YeK17bmobkwjWtZFA) |[Graduations](https://photos.google.com/album/AF1QipNANHPGZCHtPz0noYiAHLQdQhgl0Gt_wRoT8mey)| [Child](https://photos.app.goo.gl/iabyrjJahW7vp31f7)  
