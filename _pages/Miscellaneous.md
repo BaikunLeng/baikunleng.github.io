@@ -21,8 +21,8 @@ As I embark on my journey as a PhD candidate, I look forward to attending confer
 |          |          |          |          |         
 |:--------:|:--------:|:--------:|:--------:|
 | [Berkeley](https://photos.app.goo.gl/pK9AAPvCiR1WHB258) | [Los Angeles](https://photos.app.goo.gl/aHzbdyJh1drJ5yH26) | [New York](https://photos.app.goo.gl/Foq7DTBVztGrAdiC7) | [Boston](https://photos.app.goo.gl/A5W44seKAZgY5Sfd8) |
-| [Shenzhen](https://photos.app.goo.gl/5cQSqT4JhbtEz2uc7) | [Seattle](https://photos.google.com/album/AF1QipPoSU4bkv96_EMZRE8eb2lJRle23NZjLHznymLA) |[Unforgettable](https://photos.google.com/album/AF1QipNr4E23sA9TkceCmoH6j1fQzM5It1l8c8J8SHyW)| [Nature](https://photos.google.com/album/AF1QipP36lGg5nYQsYPvqmPeLT5tVnW4dRJu8S6brFtK)  
-| [Injury](https://photos.google.com/share/AF1QipPUjN9hV18BZBUG_9K7vcGqfPa907MriDjphkzRDz7aOdTr5f_iNoPqsrlDL0QV7g?key=T1loR3BVT3ZzVHhDcmVvZUhWcTBzSVdsTWg2NWNR) | [Friends](https://photos.app.goo.gl/YeK17bmobkwjWtZFA) |[Graduations](https://photos.google.com/album/AF1QipNANHPGZCHtPz0noYiAHLQdQhgl0Gt_wRoT8mey)| [Child](https://photos.app.goo.gl/iabyrjJahW7vp31f7)  
+| [Shenzhen](https://photos.app.goo.gl/5cQSqT4JhbtEz2uc7) | [Seattle](https://photos.app.goo.gl/C9myc4Yc8keB3jxg7) |[Unforgettable](https://photos.app.goo.gl/FfQaXXXBKhYHjsjk6)| [Nature](https://photos.app.goo.gl/HcvThWBwiHjy2y7b9)  
+| [Injury](https://photos.app.goo.gl/TsL3Mh76mGX9y5aF8) | [Friends](https://photos.app.goo.gl/YeK17bmobkwjWtZFA) |[Graduations](https://photos.google.com/album/AF1QipNANHPGZCHtPz0noYiAHLQdQhgl0Gt_wRoT8mey)| [Child](https://photos.app.goo.gl/iabyrjJahW7vp31f7)  
 
 
 
