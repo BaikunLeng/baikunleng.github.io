@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Baikun Leng"
+title                    : "Baikun (Leon) Leng"
 title_separator          : "-"
-name                     : &name "Baikun Leng"
+name                     : &name "Baikun (Leon) Leng"
 description              : &description "Undergraduate Student of CUHK (shenzhen) and one year visitng student of UC Berkeley"
 url                      : https://baikunleng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
