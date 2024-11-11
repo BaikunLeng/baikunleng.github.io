@@ -10,7 +10,7 @@ redirect_from:
 
 About 
 ======
-Baikun Leng is a Ph.D. student in the [ISOM Department, Foster School of Business, the University of Washington, Seattle](https://foster.uw.edu/faculty-research/academic-departments/information-systems-and-operations-management/). He completed undergraduate studies at the [School of Data Science](https://sds.cuhk.edu.cn/en) (Outstanding Contribution & Honorable Mention), [Muse College](https://muse.cuhk.edu.cn/en) (Distinguished Graduate & Highest Honor In Master List) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). During his junior year, he was a visiting student at [UC Berkeley](https://www.berkeley.edu/) EECS & IEOR. 
+Baikun (Leon) Leng is a Ph.D. student in the [ISOM Department, Foster School of Business, the University of Washington, Seattle](https://foster.uw.edu/faculty-research/academic-departments/information-systems-and-operations-management/). He completed undergraduate studies at the [School of Data Science](https://sds.cuhk.edu.cn/en) (Outstanding Contribution & Honorable Mention), [Muse College](https://muse.cuhk.edu.cn/en) (Distinguished Graduate & Highest Honor In Master List) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). During his junior year, he was a visiting student at [UC Berkeley](https://www.berkeley.edu/) EECS & IEOR. 
 
 He is passionate about exploring topics in AI, Blockchain, Data Science and Supply Chains. Formerly, he interned as a research assistant at [Berkeley Haas](https://haas.berkeley.edu/), [SMU Cox](https://www.smu.edu/cox), and [CUHKSZ SDS](https://sds.cuhk.edu.cn/en), focusing on the Finance-Operations Interface, Data Driven Optimization and Frontier Tech adoption OM, aiming to address operational challenges that arise in business and society. 
 
@@ -19,16 +19,6 @@ He also created the database for [CBER](https://www.cber-forum.org/literature) a
 Book a Chat With Him: [Sunday Service](https://calendly.com/leonleng0730/11)<br>
 [Email](mailto:leonleng0730@gmail.com): leonleng0730@gmail.com
 
-<section id="news-section">
-  <h2>Latest News</h2>
-  <div class="news-container">
-    <div class="news-item">News item 1: Latest updates on product launches.</div>
-    <div class="news-item">News item 2: Company expands to new markets.</div>
-    <div class="news-item">News item 3: New partnership announced.</div>
-    <div class="news-item">News item 4: Upcoming events and webinars.</div>
-    <!-- Add more news items here -->
-  </div>
-</section>
 
 
 
