@@ -11,8 +11,8 @@ redirect_from:
 
 
 ## Teaching
-* EMBA 530 A&B Decision Models for Management (Winter 2025 TA)<br>
-* BA 502 A&B Decision Support Models (Spring 2025 TA)<br>
+* EMBA 530 A&B: Decision Models for Management (Winter 2025 TA)<br>
+* BA 502 A&B: Decision Support Models (Spring 2025 TA)<br>
 
 
 
