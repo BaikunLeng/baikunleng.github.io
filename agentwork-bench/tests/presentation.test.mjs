@@ -1,0 +1,16 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {esc,tableHTML,markdownHTML,renderArtifact,publicRecord,artifactAt,filterTasks,validRecord} from '../v5/presentation.mjs';
+import {TASKS,getTask,VERSION,defaults} from '../v4/catalog.mjs';
+import {execute} from '../v4/runtime.mjs';
+test('escapes HTML in all text output',()=>assert.equal(esc('<script>"&\''),'&lt;script&gt;&quot;&amp;&#39;'));
+test('CSV preview parses quoted commas and escapes embedded tags',()=>{const h=tableHTML('"name","value"\r\n"<img src=x>","a,b"\r\n');assert.ok(h.includes('&lt;img src=x&gt;'));assert.ok(h.includes('a,b'));assert.ok(!h.includes('<img'));});
+test('markdown renderer never executes raw HTML or unsafe links',()=>{const h=markdownHTML('# <script>alert(1)</script>\n\n[evil](javascript:alert(1))');assert.ok(!h.includes('<script>'));assert.ok(!h.includes('href='));assert.ok(h.includes('<h2>'));});
+test('artifact selection uses actual content type',()=>{const r=execute('data-reconcile','careful',defaults(getTask('data-reconcile')));assert.equal(artifactAt(r,'report').name,'monthly_report.md');assert.equal(artifactAt(r,'table').name,'reconciled.csv');});
+test('unvoted record export omits identity and computed checks without mutating source',()=>{const r={kind:'comparison',vote:null,agents:[{policy:'careful',checks:[{pass:true}],passed:true,artifacts:[]}]};const safe=publicRecord(r);assert.ok(!('policy'in safe.agents[0]));assert.ok(!('checks'in safe.agents[0]));assert.equal(r.agents[0].policy,'careful');});
+test('voted export preserves the revealed identity',()=>assert.equal(publicRecord({kind:'comparison',vote:'a',agents:[{policy:'careful'}]}).agents[0].policy,'careful'));
+test('category and status filters cannot mark planned task runnable',()=>assert.equal(filterTasks(TASKS,{domain:'office',status:'runnable'}).length,0));
+test('search matches artifact and task description',()=>assert.equal(filterTasks(TASKS,{query:'USD net-revenue'}).length,1));
+test('unknown persisted records are rejected',()=>{assert.equal(validRecord({},getTask,VERSION),false);assert.equal(validRecord({version:VERSION,id:'id',brief:'b',kind:'comparison',taskId:'missing',agents:[]},getTask,VERSION),false)});
+test('valid runs from prior version remain viewable',()=>{const agents=['careful','quick'].map(p=>execute('data-reconcile',p,defaults(getTask('data-reconcile'))));assert.equal(validRecord({version:VERSION,id:'id',kind:'comparison',taskId:'data-reconcile',brief:'b',vote:null,agents},getTask,VERSION),true);});
+test('unknown artifact type safely renders as text',()=>assert.ok(renderArtifact({type:'text/html',content:'<iframe onload=x>'}).includes('&lt;iframe')));
