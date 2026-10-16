@@ -1,86 +1,82 @@
 # AgentWork
 
-**Compare agents on the work they actually deliver.**
+**Compare the work. Across different kinds of work.**
 
-AgentWork 的目标是一个**多领域、多任务的 Agent 评测与比较平台**，不是租房助手。租房只是 Personal Services 中的一个任务族。
+[Open the prototype](https://baikunleng.github.io/agentwork-bench/?v=4#arena) · [Product and research plan](docs/APEX_INSPIRED_MULTITASK_PLAN.md) · [V4 implementation notes](docs/V4_IMPLEMENTATION.md)
 
-> **当前状态：前端交互原型 + 公开的租房合成场景。** 多领域环境、真实模型运行、私有验收器和公共模型排行榜尚未实现。下述规划不代表已完成功能。
+## Current implementation — v4.0.0
 
-## 先读设计文档
+The site is a multi-domain front-end prototype, not a rental-search product and not a real-model leaderboard.
 
-### [借鉴 APEX-Agents 的多任务评测平台思路](docs/APEX_INSPIRED_MULTITASK_PLAN.md)
+| Domain | Task | State |
+| --- | --- | --- |
+| Procurement | Compare current supplier quotes and first-year costs | Runnable synthetic demo |
+| Data & reports | Reconcile revisions, refunds and currencies | Runnable synthetic demo |
+| Personal services | Verify rent, parking and lease availability | Runnable synthetic demo |
+| Research | Reconcile conflicting evidence and revise a memo | Task design only |
+| Office coordination | Coordinate a meeting across time zones | Task design only |
+| Travel & events | Replan an offsite after cancellation | Task design only |
 
-文档包含项目定位、APEX / SWE-bench / Design Arena 的借鉴边界、首批六个领域、world 与 task 契约、交付物验收、操作轨迹、榜单协议、网站信息结构、当前代码迁移计划和数据许可边界。文末附已核验的官方来源。
+There are **six task entries, three executable public worlds and two scripted reference policies**. A domain entry is not a completed benchmark. The 18-pilot / 120-task plan remains a roadmap.
 
-**核心变化：**
+### What works
 
-- 用 `Domain × Workflow × Artifact` 组织任务，而不是把停车、报价、资格等租房变体算成不同领域。
-- 每个任务绑定可重置的项目世界、工具权限、交付物、证据要求和验收器。
-- 客观完成率、人类偏好、费用与时效分开评价；模拟展示不充当真实模型成绩。
-- 原始工具事件、历史重建与演示数据分别标注；不发布私人邮件或缺少授权的任务材料。
+- Generic task composer, domain filters, searchable task library and world browser.
+- TaskSpec-driven parameters: procurement uses budget and deadline; data uses the reporting period; housing alone uses floor area and lease date.
+- Independent world clones for A/B comparisons; deterministic calls recorded during actual local execution.
+- Procurement reads current quotes and waits on a simulated supplier reply; data reconciles actual fixture rows rather than reusing housing logic.
+- Generated CSV and Markdown artifacts, tabular previews, source inspection and downloads.
+- Output-based checks for costs, dates, refunds, FX, revisions, consistency and unauthorized state changes.
+- Local task drafts, run records and separate preference votes. Storage failure is surfaced; export works without persistence.
+- A reference suite computes results across three worlds. The real-model leaderboard remains empty.
 
-## 计划中的任务领域
+### What does not work yet
 
-以下均为**开发方向**，不是可运行领域清单。
+No live LLM adapter, server-side runner, hidden test set, real email, external account access, model billing or global voting. Free text is saved as a task idea; it is **not interpreted by a model**. CSV output is not an XLSX workbook. Public demo checks are not independently reviewed benchmark grades.
 
-| 领域 | 示例工作 |
-| --- | --- |
-| Research & Comparison | 多来源调研、声明核验、修改研究建议 |
-| Procurement & Operations | 供应商询价、报价比较、准备采购交付物 |
-| Travel & Events | 行程规划、场地协调、取消后的重新安排 |
-| Office Coordination | 邮件待办、跨时区日历、获授权的状态更新 |
-| Data & Deliverables | 清洗数据、更新工作簿、制作业务评审资料 |
-| Personal Services | 租房、搬家服务比较、依据偏好更新候选 |
+All example organizations and data are fictional. No private Gmail, personal financial material or restricted APEX task files are included. The model-use fields are null when unavailable, not estimated.
 
-软件开发、设计、金融和法律列为扩展目录；只有相应执行环境与专家验收完成后才进入正式评测。
+## Run locally
 
-建议先做 **18 个开发试点**（6 个领域 × 1 个 world × 3 个任务），验证底座后再制作 **120 个独立任务**。这是目标规模，当前任务数不按此计算。详见主文档第 3 节。
+From the repository root:
 
-## 目前代码实际支持什么
-
-实现基线：`4d6c896df0668b4055abdef05bf0d11c3a49628e`，本轮仅新增文档。
-
-| 项目 | 状态 |
-| --- | --- |
-| Arena、任务目录、历史运行与证据查看界面 | 已有静态前端原型 |
-| 租房合成场景 | 5 个机制场景；仍属同一个任务领域 |
-| 参考策略 | 2 个浏览器本地执行的确定性策略 |
-| 真实 AI 模型执行 | 未接入 |
-| 私有评测状态及服务端 grader | 未实现 |
-| 多领域运行环境 | 规划中 |
-| 公开真实模型成绩 | 无；不能用演示成绩替代 |
-| APEX 数据或代码集成 | 无；只参考公开方法说明 |
-
-当前 `brief` 文本被保存，不会被模型解释。演示验收使用页面上的结构化约束。本地投票不是全站投票，也不是官方评测结果。
-
-## 本地查看当前前端
-
-从仓库根目录运行：
-
-```bash
+```sh
 python3 -m http.server 8000 --directory agentwork-bench
 ```
 
-随后打开 `http://localhost:8000/`。这只启动静态文件服务器，不启动 Agent 后端。
+Open `http://localhost:8000/`. Serve via HTTP so ES modules load correctly.
 
-线上演示入口：[AgentWork on GitHub Pages](https://baikunleng.github.io/agentwork-bench/)。本次新增设计文档不意味着线上页面已经完成多领域改造。
+## Test
 
-## 目录
+Requires Node.js with the built-in test runner and standard ES-module support; no npm dependencies:
+
+```sh
+node --test agentwork-bench/tests/multitask.test.mjs
+```
+
+The initial v4 suite contains 40 passing tests, including wrong-output mutations. Browser inspection covered desktop and mobile layouts, navigation, comparison, downloads, voting, traces, world browsing and session drafts. The authoring environment blocks browser URL navigation, so visual checks used an in-memory page with the same CSS/JS. Persistent browser storage and live production navigation were not validated in that check.
+
+## Structure
 
 ```text
 agentwork-bench/
-  index.html
-  styles.css
-  app.js
-  README.md
+  index.html               # Generic application shell
+  styles.css               # Existing visual system
+  v4/
+    catalog.mjs            # Domains, TaskSpec registry, parameter validation
+    worlds.mjs             # Original public world fixtures
+    runtime.mjs            # Local gateway, policies, artifacts, output verifier
+    ui.mjs                 # Navigation, composer, artifact/trace viewers, storage
+    multitask.css          # Multi-domain layouts
+  tests/multitask.test.mjs
   docs/
     APEX_INSPIRED_MULTITASK_PLAN.md
+    V4_IMPLEMENTATION.md
+  legacy/                  # Previous five housing demos retained unchanged
 ```
 
-## 后续实现重点
+The old `app.js` is retained for provenance but is not loaded by v4. Prior local histories are not deleted or relabeled as v4 runs.
 
-先将租房字段从首页移出，改为由通用 TaskSpec 驱动的任务配置；其次将场景注册、运行器、策略接入、产物查看器与验收器拆分。
+## Next milestone
 
-优先用“企业服务采购”和“月度数据交付”两个非租房 worlds 验证共享底座。前者检验询价、等待和决策，后者检验真实文件产物；不能只加首页标签而沿用同一套租房逻辑。
-
-正式评测必须在隔离服务中运行。**不要把模型密钥、私人邮件、隐藏真值或受限数据放进此公共目录。** 对 APEX 数据仅借鉴公开设计，不导入、重新托管或训练；其公开说明及适用限制见主文档第 12 节。
+Add a real model adapter and server-owned execution gateway, then independently review the three implemented worlds. Implement research, office and travel as genuinely different environments before changing their state to runnable. Keep private grading data and keys out of this GitHub Pages directory.
