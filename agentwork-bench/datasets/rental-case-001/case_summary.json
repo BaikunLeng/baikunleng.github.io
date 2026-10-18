@@ -1,0 +1,22 @@
+{
+  "case_id": "rental-001",
+  "version": "0.1.0",
+  "classification": "pseudonymized_partial_live_case_retrospective_audit",
+  "legacy_call_records": 22,
+  "audit_observation_records": 6,
+  "historical_supplement_records": 6,
+  "total_record_entries": 34,
+  "selected_email_excerpts_in_private_source": 16,
+  "public_email_bodies_uploaded": 0,
+  "raw_native_capture": false,
+  "complete_chronology": false,
+  "identified_sent_metadata_checks": "3/3",
+  "delivery_status": "UNKNOWN",
+  "all_rental_mail_processed": "UNKNOWN",
+  "total_tokens": null,
+  "total_cost": null,
+  "overall_agent_score": null,
+  "benchmark_ready": false,
+  "independent_review": false,
+  "public_scope": "metadata and event summaries only; no raw private messages"
+}
