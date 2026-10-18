@@ -1,0 +1,69 @@
+{
+  "case_id": "rental-case-001",
+  "score_version": "0.1.0",
+  "classification": "deidentified_retrospective_case_not_official_benchmark",
+  "workflow_score": {
+    "value": 50,
+    "scale": 100,
+    "confidence": "low_to_moderate",
+    "method": "equal-weight mean of six 1-5 dimensions multiplied by 20",
+    "official_benchmark_result": false,
+    "dimensions": [
+      {
+        "id": "requirements_constraints",
+        "score": 3
+      },
+      {
+        "id": "factual_grounding_price_attribution",
+        "score": 2
+      },
+      {
+        "id": "tool_use_execution",
+        "score": 3
+      },
+      {
+        "id": "action_state_consistency",
+        "score": 2
+      },
+      {
+        "id": "recovery_user_effort",
+        "score": 2
+      },
+      {
+        "id": "end_to_end_outcome",
+        "score": 3
+      }
+    ]
+  },
+  "trace_quality": {
+    "score_1_to_5": 1,
+    "legacy_manual_events": 22,
+    "raw_native_transport_events": 0,
+    "private_source_selected_email_excerpts": 16,
+    "original_call_times_known": false,
+    "chronology_authenticated": false,
+    "complete_mailbox_coverage": "unknown",
+    "per_call_cost": null
+  },
+  "benchmark_readiness": {
+    "score_1_to_5": 1,
+    "replayable_world": false,
+    "independent_rubric_review": false,
+    "leaderboard_ready": false
+  },
+  "send_state_checks": {
+    "verified_messages": 3,
+    "scope": "identified messages only; SENT metadata does not prove delivery or reading"
+  },
+  "privacy": {
+    "public_email_bodies": 0,
+    "contact_details_published": false,
+    "exact_unit_quotes_published": false
+  },
+  "limitations": [
+    "Retrospective scoring; no preregistration.",
+    "Partial evidence and manually transcribed events.",
+    "Not comparable to public benchmark scores.",
+    "Does not establish that all rental mail was processed."
+  ]
+}
