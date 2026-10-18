@@ -1,0 +1,318 @@
+{
+  "case_id": "rental-001",
+  "classification": "pseudonymized partial retrospective audit",
+  "counts": {
+    "legacy": 22,
+    "audit": 6,
+    "supplement": 6,
+    "total": 34,
+    "private_email_excerpts": 16,
+    "public_bodies": 0
+  },
+  "events": [
+    {
+      "collection": "legacy",
+      "seq": 1,
+      "event": "Gmail.get_profile",
+      "status": "observed_success",
+      "completeness": "partial",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 2,
+      "event": "Gmail.search_emails",
+      "status": "observed_success",
+      "completeness": "search rows not archived",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 3,
+      "event": "Gmail.search_email_ids",
+      "status": "observed_success",
+      "completeness": "ID list observed; IDs withheld",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 4,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 5,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 6,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 7,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 8,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 9,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 10,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 11,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 12,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 13,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 14,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 15,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 16,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 17,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 18,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "selected excerpt or fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 19,
+      "event": "Gmail.send_email",
+      "status": "observed_success",
+      "completeness": "receipt later checked; raw transport absent",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 20,
+      "event": "Gmail.read_email",
+      "status": "observed_success",
+      "completeness": "SENT fields only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "legacy",
+      "seq": 21,
+      "event": "Gmail.read_attachment",
+      "status": "observed_success",
+      "completeness": "attachment extraction incomplete",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "audit",
+      "seq": 1,
+      "event": "user_request",
+      "status": "observed",
+      "completeness": "text withheld",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "audit",
+      "seq": 2,
+      "event": "audit_finding",
+      "status": "observed",
+      "completeness": "metadata only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "audit",
+      "seq": 3,
+      "event": "Gmail.read_email request",
+      "status": "observed",
+      "completeness": "request/response split",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "audit",
+      "seq": 4,
+      "event": "Gmail.read_email result",
+      "status": "returned",
+      "completeness": "parsed response; body withheld",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "audit",
+      "seq": 5,
+      "event": "Gmail.read_email request",
+      "status": "observed",
+      "completeness": "request/response split",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "audit",
+      "seq": 6,
+      "event": "Gmail.read_email result",
+      "status": "returned",
+      "completeness": "parsed response; body withheld",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "supplement",
+      "seq": 1,
+      "event": "Gmail.send_email request",
+      "status": "reconstructed",
+      "completeness": "arguments withheld",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "supplement",
+      "seq": 2,
+      "event": "Gmail.send_email result",
+      "status": "SENT observed",
+      "completeness": "metadata only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "supplement",
+      "seq": 3,
+      "event": "annotation",
+      "status": "observed",
+      "completeness": "metadata only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "supplement",
+      "seq": 4,
+      "event": "Gmail.send_email request",
+      "status": "reconstructed",
+      "completeness": "arguments withheld",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "supplement",
+      "seq": 5,
+      "event": "Gmail.send_email result",
+      "status": "SENT observed",
+      "completeness": "metadata only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    },
+    {
+      "collection": "supplement",
+      "seq": 6,
+      "event": "annotation",
+      "status": "observed",
+      "completeness": "metadata only",
+      "call_time": null,
+      "provenance": "manual/reconstructed"
+    }
+  ],
+  "limitations": [
+    "Manual/reconstructed, not native transport capture.",
+    "Stored order is not authenticated execution chronology.",
+    "Exact arguments, bodies, IDs, URLs and contact details withheld.",
+    "Three SENT metadata checks do not prove delivery.",
+    "No overall Agent score; not benchmark-ready."
+  ]
+}
